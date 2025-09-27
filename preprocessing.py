@@ -14,7 +14,12 @@ df_signup = df_web.copy()
 df_signup.rename(columns={"email": "target"}, inplace=True)
 df_signup["target"] = (~df_signup["target"].isna()).astype(int)
 
-encodable = ["referrer", "device", "route"]
+df_signup["month"] = pd.to_datetime(df_signup["date"], format='%d/%m/%Y').dt.month
+
+sns.barplot(df_signup[["target", "month"]], x="month", y="target")
+plt.show()
+
+encodable = ["referrer", "device", "route", "month"]
 encoder = OneHotEncoder(sparse_output=False)
 encoded = encoder.fit_transform(df_signup[encodable])
 df_signup = pd.concat(
@@ -26,16 +31,13 @@ df_signup = pd.concat(
 )
 
 df_signup.drop(columns=encodable, inplace=True)
-df_signup["month"] = pd.to_datetime(df_signup["date"], format='%d/%m/%Y').dt.month
 
-scalable = ["month", "scroll_pct", "time_spent"]
+scalable = ["scroll_pct", "time_spent"]
 scaler = MinMaxScaler()
 df_signup[scalable] = scaler.fit_transform(df_signup[scalable])
 
 df_signup.drop(columns=["ip", "date"], inplace=True)
 
-sns.barplot(df_signup[["target", "month"]], x="month", y="target")
-plt.show()
 
 print(df_signup["target"].sum())
 
