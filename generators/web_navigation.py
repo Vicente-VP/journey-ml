@@ -6,8 +6,8 @@ import numpy as np
 # Global Constants for Customization
 BASE_EMAIL_FILL_RATE = 0.30  # 30% base chance for email to be filled
 JAN_JUNE_EMAIL_BOOST = 0.40  # +40% chance in Jan and June
-SAFARI_BRAVE_MOBILE_EMAIL_BOOST = 0.50  # +30% chance for Safari/Brave/Mobile
-FATEC_EMAIL_REDUCTION = 0.25  # -15% chance for FATEC routes
+SAFARI_BRAVE_MOBILE_EMAIL_BOOST = 0.50  # +50% chance for Safari/Brave/Mobile
+FATEC_EMAIL_REDUCTION = 0.25  # -25% chance for FATEC routes
 
 # Time spent distribution parameters
 TIME_SPENT_MEAN = 180

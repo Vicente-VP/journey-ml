@@ -41,6 +41,4 @@ df_signup.drop(columns=["ip", "date"], inplace=True)
 
 print(df_signup["target"].sum())
 
-# x = tempo passado por tela
-# y = usuários logados
 df_signup.to_csv("./datasets/encoded-signup.csv", index=False)
