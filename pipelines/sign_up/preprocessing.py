@@ -8,7 +8,6 @@ from sklearn.preprocessing import OneHotEncoder, MinMaxScaler
 matplotlib.use("TkAgg")
 
 df_web = pd.read_csv("./datasets/bv-web-analytics.csv")
-df_profiles = pd.read_csv("./datasets/bv-profiles.csv")
 
 df_signup = df_web.copy()
 df_signup.rename(columns={"email": "target"}, inplace=True)
@@ -41,4 +40,4 @@ df_signup.drop(columns=["ip", "date"], inplace=True)
 
 print(df_signup["target"].sum())
 
-df_signup.to_csv("./datasets/encoded-signup.csv", index=False)
+df_signup.to_csv("./datasets/preprocessed-signup.csv", index=False)
