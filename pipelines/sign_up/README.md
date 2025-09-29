@@ -25,7 +25,9 @@
 | ---------------------------------------------------- | --------------------------------------------------- |
 | ![signups por dispositivo](plots/device-signups.png) | ![contagem de dispositivos](plots/device-ratio.png) |
 
-| _gráficos bonitos_
+| Signups por _referrer_                              | Proporção de _referrers_                           | User Base x % de cadastros                   |
+| --------------------------------------------------- | -------------------------------------------------- | -------------------------------------------- |
+| ![signups por referrer](plots/referrer-signups.png) | ![contagem de referrers](plots/referrer-ratio.png) | ![gráfico composto](plots/referrer-join.png) |
 
 ### API de sugestão
 
