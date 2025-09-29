@@ -1,0 +1,1001 @@
+email,birthdate,education,state,mbti,interests,purchases,experience
+pereirahelena@example.net,22/05/2006,incomplete,RS,INTJ,education|accounting,,working
+csilveira@example.com,21/12/1981,undergraduate,PB,INFP,architecture,,working
+xnunes@example.org,06/05/2005,incomplete,RJ,ENTP,machine learning|database management,,working
+hellenacirino@example.com,29/04/1981,undergraduate,GO,INTP,database management|journalism|advertising,,working on field of study
+maysa99@example.net,26/01/1998,graduate,SC,INTP,web development,,working
+pedro-miguelda-rosa@example.com,15/07/2004,incomplete,SP,ESFJ,literature|biology,,working
+joanada-mota@example.com,16/07/1990,undergraduate,PR,INTP,mathematics|public relations,,working on field of study
+maria-sophiaferreira@example.net,08/08/2000,undergraduate,CE,ENFJ,marketing|finance|electrical engineering,,working on field of study
+benjamim61@example.net,23/05/1985,undergraduate,RS,ESFJ,history|biology,ANPEC,working
+josue79@example.org,20/12/1990,undergraduate,MA,ESFP,performing arts,,working on field of study
+macedomarina@example.net,10/09/1989,undergraduate,SP,INTP,architecture,,working
+gael56@example.org,14/06/1985,undergraduate,RJ,ESFP,dentistry|law,,working on field of study
+apollo16@example.org,02/06/2004,incomplete,MG,INFP,literature|marketing,,working
+eduardada-luz@example.com,23/07/1997,highschool,SP,ENFP,mathematics,POSCOMP,working
+mirella11@example.com,11/08/1995,undergraduate,SP,ENFJ,public policy|civil engineering|visual arts,,working
+davi-lucas79@example.org,29/06/2007,incomplete,BA,INTJ,accounting|international relations|environmental science,,unemployed
+rfreitas@example.net,11/05/1998,undergraduate,SC,ESFP,music|cybersecurity,,working
+guilhermecampos@example.org,08/10/2006,incomplete,SC,ENFP,medicine,,unemployed
+macedomanuela@example.org,14/11/1988,highschool,MS,ESTP,sports science|machine learning,,unemployed
+qda-mota@example.net,29/10/1980,undergraduate,SP,INFJ,environmental science|machine learning|finance,,working
+portoisadora@example.com,16/06/2002,incomplete,BA,ESFJ,visual arts|business administration,Vestibular UNICAMP,working
+cavalcantepietra@example.com,20/10/1982,undergraduate,MG,ESTP,cybersecurity|public policy,,working
+eloa22@example.net,23/08/1982,graduate,SP,INFJ,architecture,,working
+jose-pedro32@example.com,23/08/2000,highschool,SP,ISFP,data science,,unemployed
+tbrito@example.com,05/09/1982,undergraduate,ES,ENTP,public relations|electrical engineering,,working
+luara54@example.net,01/06/2001,incomplete,SP,ESTJ,political science|mechanical engineering,,working
+estermoura@example.org,13/03/2003,incomplete,SP,INTP,medicine,,working on field of study
+novaescaleb@example.net,22/05/2000,graduate,SP,ENTP,cybersecurity|business administration,,working on field of study
+zmoura@example.org,21/09/1991,undergraduate,PR,INFJ,accounting,,unemployed
+cardosolucas@example.net,13/01/2002,undergraduate,CE,INFP,cloud computing|biology|nutrition,,unemployed
+qribeiro@example.net,18/10/1994,undergraduate,PR,ISFJ,civil engineering,,working
+jribeiro@example.com,17/02/2000,highschool,SC,ISTJ,international relations,,working
+siqueirahelena@example.com,04/02/1988,graduate,PR,ENFP,tourism|marketing,,working on field of study
+usales@example.org,09/04/1997,highschool,MA,ENFJ,visual arts|web development|graphic design,,working
+moraesluiz-otavio@example.net,01/07/1983,undergraduate,PA,ISTJ,marketing,,working
+lara20@example.net,02/11/1995,highschool,SP,ESFP,mechanical engineering,,working
+barbara18@example.net,19/11/1981,incomplete,SP,ENFJ,marketing|public relations,,unemployed
+gustavofonseca@example.com,26/06/2006,incomplete,PA,ISTJ,mechanical engineering,,working
+dante26@example.net,03/02/2008,incomplete,MG,ENTP,artificial intelligence|nursing|chemistry,FUVEST|Vestibular FATEC,unemployed
+breno37@example.org,31/05/1988,graduate,GO,ESTP,performing arts|mechanical engineering,,working
+qda-costa@example.org,29/11/1983,highschool,SP,ENFP,artificial intelligence|cybersecurity,,unemployed
+danilo48@example.com,27/12/2000,undergraduate,RJ,INFJ,pharmacy|physical education|music,,working
+carolina60@example.org,16/07/2004,incomplete,PR,INTP,performing arts|medicine|graphic design,,working
+sampaiogiovanna@example.com,27/07/1985,incomplete,MA,ESFP,business administration,,working
+xbarros@example.com,26/07/1987,undergraduate,CE,ISTJ,public relations|international relations|tourism,,researcher
+gomesdanilo@example.org,12/09/2005,incomplete,RJ,INFP,journalism,,unemployed
+acarvalho@example.net,11/04/1992,undergraduate,MG,ESTJ,public relations,,working
+da-rosavitor@example.org,06/06/1998,graduate,AL,ISFP,philosophy|civil engineering,,working on field of study
+rodriguesaugusto@example.org,21/05/1990,undergraduate,SE,ISTJ,finance,,working
+henry-gabrielcasa-grande@example.org,26/03/1981,graduate,SC,ESTJ,dentistry|hospitality|chemistry,,working
+rafaelamachado@example.org,05/11/1989,undergraduate,RJ,INFP,environmental science,,working
+martinscalebe@example.com,20/01/1980,undergraduate,ES,INFP,accounting,,working
+rmonteiro@example.org,20/06/2008,incomplete,MA,ESTJ,agriculture|political science|database management,,unemployed
+luiza56@example.org,10/09/1993,incomplete,SP,INTJ,history|civil engineering,,unemployed
+freitasleticia@example.org,19/01/1986,undergraduate,RR,INFP,linguistics,,working
+wandrade@example.com,18/07/2001,incomplete,SP,ENFP,advertising|civil engineering|agriculture,,working
+luanaalmeida@example.org,25/06/1991,highschool,PI,INFJ,physics|anthropology|psychology,,working on field of study
+hda-cruz@example.org,24/06/1985,undergraduate,MG,ESFJ,tourism,,working
+claricefreitas@example.com,09/04/1990,highschool,RJ,ESTP,visual arts|nutrition|sociology,,working
+asafe15@example.net,15/05/1996,highschool,MG,ENTP,web development|advertising|cloud computing,,unemployed
+esteralves@example.net,04/03/2000,highschool,MG,INTP,literature,,working on field of study
+lrios@example.net,19/05/2007,incomplete,SP,INFJ,veterinary medicine,,working
+maria-eduardaoliveira@example.org,02/12/1982,undergraduate,RS,INFP,performing arts,,working
+maya46@example.com,24/03/1982,graduate,RJ,ENTP,cybersecurity,,researcher
+lunnapastor@example.org,18/02/1987,graduate,RJ,ESTJ,public relations|biology|law,,working
+luiz-otavio50@example.org,05/10/1981,undergraduate,SP,ISFP,journalism|mechanical engineering,,working on field of study
+milenanovaes@example.net,06/03/1999,graduate,BA,ISFJ,pharmacy|nursing,,researcher
+marcelo40@example.net,23/07/1983,graduate,RS,INTP,physical education,,working
+mendoncahenrique@example.net,17/10/2006,incomplete,RJ,ENTP,visual arts|nursing|veterinary medicine,,unemployed
+ycarvalho@example.org,05/10/1983,highschool,MT,ESFP,philosophy|veterinary medicine,,unemployed
+nogueiragabriel@example.org,04/08/1986,undergraduate,TO,ESFP,advertising,,working on field of study
+nascimentohelena@example.com,23/05/1983,graduate,PA,INFJ,artificial intelligence|accounting,,unemployed
+pietro54@example.net,23/03/2005,incomplete,SP,ISTJ,economics|veterinary medicine,,working
+da-cunhamathias@example.com,04/01/1994,highschool,MG,ESFP,business administration,,working
+gael-henrique36@example.com,20/05/1988,graduate,RS,ENFP,history,,working
+henrique53@example.com,17/03/1981,undergraduate,BA,ENTP,music|agriculture|public policy,,working
+rodriguesenzo-gabriel@example.net,02/07/2005,incomplete,RJ,ISFP,education|chemistry,,working
+kcaldeira@example.net,18/12/1990,undergraduate,SP,INTP,accounting|linguistics,,working on field of study
+jade60@example.net,26/12/1999,highschool,MS,ESFJ,political science|anthropology,,unemployed
+vicentedas-neves@example.org,02/12/1980,graduate,SP,INFP,machine learning|environmental science|dentistry,,working on field of study
+mendoncaluiza@example.org,18/02/1980,highschool,DF,ENFJ,linguistics,,unemployed
+da-pazmelissa@example.net,03/11/1997,undergraduate,GO,INFJ,business administration,,working
+vinicius26@example.com,05/09/2003,incomplete,MA,INFJ,veterinary medicine|tourism|advertising,,working
+lcosta@example.com,22/04/2002,highschool,SP,ENTP,journalism,,working
+araujoisis@example.net,13/05/1998,undergraduate,SP,INFP,electrical engineering|physical education|law,,working
+ribeiromurilo@example.org,10/05/1999,graduate,SC,ESFJ,education,,working
+da-luzmaria-laura@example.org,15/08/1982,undergraduate,SE,INFP,tourism|international relations|architecture,,researcher
+calebesiqueira@example.org,09/07/2000,undergraduate,ES,ESFP,performing arts|medicine|linguistics,,working
+jcamargo@example.net,28/07/1983,undergraduate,RJ,ESFJ,public relations|law|accounting,,working on field of study
+clara22@example.com,29/11/1986,undergraduate,SE,ISTJ,architecture,,working on field of study
+rodriguestheo@example.com,18/02/2007,incomplete,SP,INFP,philosophy|pharmacy,,unemployed
+sampaioesther@example.com,25/07/2002,highschool,SP,INTJ,psychology|machine learning,,unemployed
+davi-lucca25@example.net,15/10/1986,undergraduate,RS,ENFP,nutrition|education|artificial intelligence,,working
+fonsecaandre@example.org,18/11/2004,incomplete,SP,ESTJ,tourism,,working
+da-pazjoao-pedro@example.net,08/08/1987,graduate,SC,ENTP,nutrition,,researcher
+ferreirayan@example.net,27/08/1982,graduate,RJ,ENTP,public relations,,researcher
+scamargo@example.net,07/12/1988,graduate,PA,ESFJ,advertising|sports science|public relations,,working on field of study
+laparecida@example.com,23/03/1989,graduate,PR,ISTP,business administration|medicine|veterinary medicine,,researcher
+bento97@example.org,20/12/1984,undergraduate,SP,ISFP,marketing,,working
+das-nevesana-carolina@example.net,20/12/1986,graduate,GO,ISFJ,nutrition|accounting|literature,,researcher
+samuel49@example.org,01/02/2008,incomplete,PR,ENFJ,hospitality|nutrition|visual arts,,unemployed
+vda-conceicao@example.com,18/03/1999,graduate,SP,ISTJ,architecture,,working
+ravy67@example.org,15/02/2001,incomplete,PR,INFJ,psychology,Vestibular UNICAMP,working
+ana-luizavargas@example.com,04/03/1980,undergraduate,PR,ISFJ,pharmacy,,working on field of study
+maria-sophiacostela@example.org,23/01/1988,undergraduate,BA,INTJ,business administration|agriculture|psychology,,working on field of study
+guilhermesouza@example.org,04/12/1984,graduate,SP,ENTP,music|artificial intelligence|physics,,working
+silvaluiz-otavio@example.com,14/07/1995,undergraduate,MG,ISTJ,marketing|cybersecurity|anthropology,,working
+jose-miguel36@example.com,28/07/2008,incomplete,SP,ISTP,literature|visual arts|web development,,unemployed
+tda-rosa@example.org,15/11/1987,highschool,SP,INFP,machine learning|history|architecture,Vestibular UNICAMP,working
+santosana-carolina@example.com,15/11/1988,graduate,SP,INFJ,anthropology|medicine|physical education,,working on field of study
+clarapereira@example.com,10/12/1985,undergraduate,SC,ISFJ,business administration|cybersecurity|software engineering,,unemployed
+felipe54@example.net,15/09/1998,undergraduate,SP,INFJ,environmental science|public policy|political science,,working on field of study
+marquesravi@example.com,26/02/1996,highschool,RR,INFJ,hospitality,,working
+vieirahellena@example.com,23/04/1983,undergraduate,SP,ESTJ,agriculture|cybersecurity|performing arts,,working on field of study
+cirinomaria-flor@example.com,22/09/1985,undergraduate,RJ,INTJ,law,,unemployed
+wdias@example.com,09/02/1986,highschool,PA,ESFP,nutrition|law,,working
+jalmeida@example.com,15/04/2003,incomplete,PE,ISTP,physics,,unemployed
+matheus17@example.net,22/01/1986,undergraduate,SP,ESTP,physics,,working
+caiocastro@example.com,03/04/1987,graduate,RS,ENFP,public policy|journalism|machine learning,,working
+maria-flor50@example.net,27/07/1994,undergraduate,BA,ENFP,cybersecurity|anthropology|tourism,,working on field of study
+andradefelipe@example.net,15/02/1989,graduate,RS,ESTJ,advertising,,researcher
+ana-carolinanogueira@example.net,02/01/2006,incomplete,DF,ENTP,journalism,,working
+wda-mata@example.com,06/04/1995,graduate,PE,ENTP,marketing,,working
+arthur-gabriel43@example.net,04/10/1999,undergraduate,PE,ESTJ,business administration|veterinary medicine|artificial intelligence,,researcher
+wribeiro@example.org,18/12/2001,incomplete,RS,ESTP,advertising|business administration|nutrition,,working
+bianca65@example.org,08/06/1997,highschool,MG,ENTJ,business administration|marketing|cybersecurity,,working
+pietroda-luz@example.com,03/04/1999,highschool,CE,ESTJ,agriculture,,working
+mendespaulo@example.org,06/08/1995,undergraduate,BA,ISTP,business administration,,working
+nicolasgarcia@example.com,27/02/1984,graduate,MG,ESTJ,chemistry|cybersecurity,,working
+camaramurilo@example.net,25/08/2001,incomplete,SP,INTJ,tourism|public relations,,working
+olivia39@example.com,18/02/2001,incomplete,SP,INTP,tourism|artificial intelligence,,working
+henry-gabrielribeiro@example.net,12/03/1990,undergraduate,BA,ESTJ,performing arts,,unemployed
+maria-laurada-mata@example.com,29/07/2007,incomplete,RJ,INTJ,veterinary medicine|data science|hospitality,,working on field of study
+esteralmeida@example.org,24/05/1998,undergraduate,PA,INFJ,data science,,working
+luisa85@example.org,09/07/2004,incomplete,SP,ENTJ,chemistry|tourism|web development,,unemployed
+anthony-gabriel25@example.org,10/12/1990,graduate,SE,ENFP,data science|hospitality,,researcher
+mnogueira@example.org,27/02/1981,undergraduate,CE,ISTP,chemistry|international relations|political science,,researcher
+vgomes@example.com,24/01/1980,graduate,MG,ESTJ,sociology,,researcher
+lcardoso@example.net,14/08/1986,undergraduate,MG,ESFJ,journalism,,working on field of study
+ribeirolivia@example.com,08/03/2005,incomplete,RJ,ESTJ,civil engineering|environmental science,,researcher
+udias@example.org,13/10/2001,incomplete,PE,INTP,web development|mathematics|cybersecurity,,working
+joao16@example.com,04/05/1989,graduate,PR,ENFP,international relations,,researcher
+agathacamargo@example.com,05/03/1986,highschool,RJ,ISTJ,anthropology|chemistry|cybersecurity,,working
+felipecassiano@example.org,19/01/2000,undergraduate,CE,ENTP,nursing,,working on field of study
+gomeslarissa@example.org,21/11/2004,incomplete,DF,ISTJ,literature|database management,,working
+imartins@example.org,26/02/2007,incomplete,CE,INFJ,visual arts,,researcher
+franciscosilva@example.com,15/06/1981,undergraduate,RS,ENFP,economics|agriculture,,working
+maria-helena80@example.net,26/01/1997,graduate,SP,ISTJ,data science|physical education|nursing,,working on field of study
+saryan@example.net,06/03/1992,graduate,PR,ESFP,education|international relations,,researcher
+kevincassiano@example.org,06/06/1992,undergraduate,SP,ESFP,business administration|law|architecture,POSCOMP,unemployed
+zbarros@example.com,25/03/1983,graduate,BA,INTP,philosophy,,researcher
+novaesmurilo@example.org,11/02/2008,incomplete,MT,ESTJ,music,,unemployed
+yasminribeiro@example.net,07/06/1982,graduate,SP,INTP,business administration|visual arts,,working on field of study
+avieira@example.net,31/12/1998,graduate,SP,ENTP,sports science|biology,POSCOMP,researcher
+beniciovasconcelos@example.com,20/12/1982,undergraduate,PE,ESTP,data science,,working on field of study
+ksousa@example.com,16/05/2002,incomplete,BA,ENFP,web development|environmental science|pharmacy,ANPEC,researcher
+vrocha@example.com,24/01/2000,undergraduate,RJ,ENTP,mathematics,,working
+matteoviana@example.net,29/09/1992,graduate,AM,ENTP,machine learning,,working on field of study
+lorenzoda-paz@example.com,10/01/2007,incomplete,RS,ISFJ,civil engineering,,unemployed
+qda-mata@example.net,22/05/1998,graduate,ES,ENFJ,anthropology|journalism|data science,,working
+yago89@example.com,29/05/2000,graduate,SP,INFP,nursing,,researcher
+francisco13@example.org,14/09/1997,graduate,SP,ENTP,journalism|data science|business administration,,working
+wcorreia@example.org,14/02/1991,graduate,SP,ENFJ,cloud computing|performing arts|hospitality,,working on field of study
+fernandosilva@example.net,19/04/2002,incomplete,SC,ENFJ,public policy|linguistics|civil engineering,FUVEST,unemployed
+almeidarafael@example.net,25/05/2004,incomplete,SP,ENTP,law|web development|electrical engineering,,working
+luigiaragao@example.org,19/12/2006,incomplete,RJ,ISFJ,sports science|accounting,,working
+hmarques@example.net,31/05/1998,graduate,AM,ENFJ,mechanical engineering,,unemployed
+pimentamanuella@example.com,12/11/1980,undergraduate,RJ,ISTJ,environmental science|agriculture,,working
+ramosmaria-luisa@example.net,27/10/2004,incomplete,BA,ISFP,public relations|physics,,working
+larissa63@example.org,14/10/2005,incomplete,TO,ESFP,mathematics,,working
+xrodrigues@example.net,21/03/1996,highschool,RJ,ENFP,advertising,,working
+marinamendes@example.org,05/09/1982,undergraduate,PE,INFP,cybersecurity|architecture|database management,,researcher
+pereiraolivia@example.com,05/10/1984,undergraduate,MG,ISFJ,psychology,,working
+benicio52@example.net,17/10/2006,incomplete,SP,INFP,visual arts|artificial intelligence|sports science,,unemployed
+nda-cunha@example.net,28/12/2001,highschool,MG,INFJ,mathematics,,working
+luna16@example.com,22/07/1993,undergraduate,BA,ENTJ,mathematics,,working
+luigi06@example.net,15/07/1998,highschool,PB,ESTP,civil engineering|accounting|sociology,,unemployed
+ribeiroluiz-gustavo@example.com,01/03/1980,undergraduate,SC,ESTJ,civil engineering,,working
+milenagomes@example.net,13/03/2007,incomplete,RJ,ESTJ,public policy|web development|architecture,,working
+helenapacheco@example.net,07/07/1988,highschool,SP,ENTJ,cybersecurity|veterinary medicine|marketing,,unemployed
+npacheco@example.org,11/02/1985,highschool,ES,ESTJ,marketing|mechanical engineering|psychology,,working
+bpimenta@example.com,16/12/1994,undergraduate,SP,INFJ,psychology,,working
+mendoncavinicius@example.net,25/06/1988,undergraduate,BA,INTJ,public policy|history,,working
+oliveiraheitor@example.net,10/11/1996,graduate,SC,ISTP,mathematics|public relations|web development,,working
+gustavo-henrique86@example.org,14/12/1995,undergraduate,SP,INFJ,advertising|physics|political science,,working on field of study
+enzoporto@example.com,05/08/2007,incomplete,RS,ESTP,performing arts,,working
+da-motaagatha@example.net,01/09/1991,highschool,RJ,ESTP,business administration,,working
+vianacamila@example.net,19/10/1993,undergraduate,CE,INFJ,linguistics|mathematics|architecture,POSCOMP,researcher
+rmelo@example.com,04/04/1986,incomplete,RS,ESFP,education|mechanical engineering,,working
+carolina36@example.org,27/02/1998,undergraduate,RJ,INTJ,public policy,,working on field of study
+sousarodrigo@example.com,15/04/1997,highschool,SP,INTP,agriculture,,working
+nascimentomatheus@example.net,19/03/2008,incomplete,SC,ESFJ,civil engineering|cybersecurity|mechanical engineering,,unemployed
+raelcosta@example.com,11/11/2005,incomplete,SC,ISTP,veterinary medicine|business administration|web development,,working on field of study
+ribeiroemanuella@example.com,10/01/1983,undergraduate,SC,INFJ,web development,,working
+nicolas99@example.org,31/07/1993,highschool,PR,ISTP,agriculture|music,Vestibular FATEC,working
+ucaldeira@example.net,18/09/1988,undergraduate,SP,INTJ,music,,unemployed
+gmoraes@example.com,25/08/1991,graduate,SE,INTJ,public relations,,working on field of study
+sampaioheitor@example.org,29/10/1993,undergraduate,SP,ESTP,business administration,ANPEC|POSCOMP,researcher
+mendesvinicius@example.net,27/03/2004,incomplete,PR,ESFP,education|anthropology|civil engineering,,unemployed
+caldeiraana-laura@example.com,30/12/2008,incomplete,SC,INTJ,machine learning|artificial intelligence|literature,,unemployed
+cbarbosa@example.net,08/10/2008,incomplete,SP,ENFP,journalism|web development,,unemployed
+yasmin29@example.org,15/08/1988,undergraduate,SP,INTP,hospitality|law,,working
+isabelaazevedo@example.net,29/02/2008,incomplete,SP,ISFP,journalism,,unemployed
+rafaela78@example.org,08/01/1989,highschool,PA,ESFJ,journalism,,working
+gael30@example.org,03/02/1993,highschool,PR,ISTJ,performing arts|civil engineering,,working
+laravasconcelos@example.com,06/05/1983,undergraduate,BA,ESFJ,public policy,,unemployed
+isabelrezende@example.com,18/10/2008,incomplete,SP,ESFJ,public policy|nursing|chemistry,,unemployed
+xmachado@example.com,14/10/1999,highschool,RS,ESTJ,law,ENEM|Vestibular UNICAMP,unemployed
+noah36@example.com,26/07/1991,graduate,SP,INFJ,web development,,working on field of study
+fernandorodrigues@example.org,15/11/1980,undergraduate,SP,ENTP,pharmacy,,working
+usantos@example.com,11/09/1983,graduate,MG,ISFJ,cybersecurity,,working on field of study
+sampaiobernardo@example.org,26/01/1988,undergraduate,SC,ISTP,graphic design|finance,,working on field of study
+kramos@example.com,15/01/1997,highschool,SP,ENFJ,medicine|mechanical engineering,,working
+vda-conceicao@example.net,08/07/1997,undergraduate,RJ,ENTJ,journalism,,working
+joao-guilherme87@example.net,27/05/1982,highschool,SP,ESTP,civil engineering|advertising|pharmacy,,working
+gmoreira@example.org,07/08/1982,undergraduate,CE,INTJ,advertising,,working on field of study
+ayllapastor@example.com,18/09/1993,undergraduate,PA,ISTP,software engineering,,working
+moraescarlos-eduardo@example.net,04/04/1990,undergraduate,AC,ESFP,marketing,,researcher
+augustocunha@example.com,21/02/1983,highschool,SP,ISFJ,cloud computing|performing arts,,researcher
+arthur22@example.org,14/01/1981,undergraduate,SP,ISFP,business administration|public relations|nutrition,,unemployed
+asafe18@example.org,18/10/2007,incomplete,SP,ISFP,history,,unemployed
+macedoester@example.org,06/11/1990,undergraduate,RS,ESTJ,database management,,working
+ana-clara71@example.org,01/08/2001,incomplete,RS,ESTJ,psychology|electrical engineering|medicine,ANPEC,unemployed
+guilherme38@example.com,05/10/1991,graduate,AC,INFP,business administration|software engineering,,working
+cirinojoao-pedro@example.net,22/02/2002,incomplete,SP,ENFJ,education,,working
+beatrizabreu@example.org,05/07/2005,incomplete,MG,INFJ,physical education,,unemployed
+da-luzemanuelly@example.com,04/06/1999,highschool,PR,INFJ,veterinary medicine,,working
+znovaes@example.net,29/01/1986,graduate,MA,INTJ,political science|physics,,working
+otto03@example.com,19/02/1986,undergraduate,PE,INTP,veterinary medicine,,researcher
+silvacecilia@example.net,02/04/1992,graduate,AP,INTJ,database management|nutrition|environmental science,,working
+jade47@example.org,05/07/2005,incomplete,SC,INFP,civil engineering|physics,,working
+nbrito@example.org,22/06/1990,incomplete,MG,ISTJ,pharmacy|public policy,,researcher
+crezende@example.net,19/07/1987,undergraduate,BA,INFJ,anthropology|international relations|law,,working on field of study
+mayaaraujo@example.net,17/09/2007,incomplete,SP,ISTP,music|machine learning|visual arts,,unemployed
+gomesdiogo@example.org,08/06/1994,graduate,MG,ESTP,marketing|mechanical engineering|database management,,working on field of study
+lavinia30@example.org,15/10/1991,incomplete,SP,ENTP,chemistry,,unemployed
+sampaiodavi-luiz@example.net,15/08/2003,incomplete,PI,ISTP,economics|dentistry,,working
+wfonseca@example.net,22/03/2007,incomplete,SP,INFJ,graphic design|public policy,,unemployed
+melinacampos@example.com,24/02/1981,graduate,BA,INTJ,nursing|literature|marketing,,working
+joao-guilherme05@example.com,23/04/2001,incomplete,MA,ENTJ,journalism|international relations,,working
+maria-vitoriagoncalves@example.org,13/11/1991,undergraduate,MG,INTP,chemistry,,unemployed
+da-pazjoao-vitor@example.com,06/05/2000,graduate,CE,INFJ,electrical engineering|chemistry,,working
+lauraaparecida@example.net,09/07/1986,undergraduate,SP,ENFJ,business administration,ANPEC,working
+qpires@example.net,03/05/1986,undergraduate,PA,ESTJ,physics|database management|data science,,working on field of study
+vargasjuliana@example.net,08/02/1992,highschool,PA,INTP,performing arts,,working
+zdias@example.org,06/12/1993,graduate,SP,ESFP,marketing|political science|journalism,,working on field of study
+alveslucas-gabriel@example.org,05/04/1996,graduate,PA,INTJ,web development|artificial intelligence,POSCOMP,working
+leticiaalbuquerque@example.org,19/05/1983,graduate,SP,ESFP,civil engineering|literature|electrical engineering,,working on field of study
+hda-paz@example.org,04/07/2007,incomplete,BA,ESTJ,dentistry|music|business administration,,working
+vasconcelosluiza@example.net,10/06/1991,graduate,RJ,INTJ,journalism,,researcher
+vitorpinto@example.com,05/07/1995,undergraduate,PA,ESFP,performing arts|visual arts,,working on field of study
+esther35@example.net,22/10/2007,incomplete,GO,ESFP,mechanical engineering,,unemployed
+joao-guilherme42@example.com,06/11/1995,graduate,SP,ISFJ,law,,working on field of study
+bryan68@example.net,21/01/1998,graduate,BA,ISFJ,psychology|hospitality|database management,,working
+portoelisa@example.org,25/04/1995,undergraduate,RS,ESTP,marketing,,working
+caioda-rocha@example.net,01/05/1997,graduate,SP,INTJ,environmental science|physics|visual arts,,researcher
+vfogaca@example.com,07/01/1986,undergraduate,MT,INFP,electrical engineering,,researcher
+caroline13@example.com,23/08/2008,incomplete,RS,ENFJ,environmental science,,unemployed
+ravimarques@example.com,26/12/1983,undergraduate,BA,INFP,tourism,,working
+rvargas@example.net,15/09/2005,incomplete,RO,INTP,nutrition,,working
+enrico88@example.com,26/06/1982,graduate,GO,ESFP,performing arts,,working
+emanuellyalves@example.net,30/01/1995,undergraduate,MG,ISFP,political science|anthropology,,working
+luarada-mota@example.org,27/08/1980,undergraduate,PE,INTP,web development,,working
+davi-miguel25@example.net,08/01/1987,graduate,ES,ESFP,medicine|nutrition,,working on field of study
+marquesisabella@example.com,28/05/1995,graduate,SP,ENTP,chemistry|cloud computing,,working
+wguerra@example.com,10/05/1981,undergraduate,RJ,INFJ,music|data science|biology,,working on field of study
+monteiroluna@example.net,06/03/2006,incomplete,CE,ESTJ,business administration|environmental science,,working
+guerraeloah@example.org,09/03/2005,incomplete,SP,ISFP,economics,,working
+benjamimandrade@example.org,23/06/1992,graduate,SP,ESFJ,journalism|graphic design|international relations,,working on field of study
+yasminporto@example.com,27/02/1989,graduate,SE,ISFP,pharmacy,,working
+oliveiravicente@example.net,16/10/2006,incomplete,MG,INFJ,performing arts|nutrition|artificial intelligence,,working
+wcavalcanti@example.org,30/12/1998,graduate,DF,ENFJ,advertising|environmental science|civil engineering,,researcher
+ravi-lucca67@example.com,08/05/1984,graduate,MG,ESTJ,environmental science|law|finance,,working on field of study
+liviamoreira@example.net,18/03/1983,undergraduate,PR,INTP,journalism,,working
+melinaferreira@example.org,23/02/1990,graduate,RS,ISFJ,sociology|political science|physics,,working
+cardosoolivia@example.org,24/01/1986,undergraduate,PA,ISFP,literature|economics,,working on field of study
+moreiramaria@example.com,20/09/1992,graduate,CE,ESTP,education|sociology,,researcher
+moraesmariana@example.org,26/02/1998,undergraduate,ES,INTJ,sociology,,working
+duartefernanda@example.com,08/11/1996,undergraduate,SE,INFJ,international relations|physics|anthropology,,working on field of study
+das-nevesmurilo@example.org,20/04/1990,graduate,RS,INFP,music|sports science|chemistry,,working on field of study
+ana-laurada-mota@example.org,29/05/1987,undergraduate,SP,ISFP,cloud computing|linguistics,,working on field of study
+gdias@example.com,27/10/2003,incomplete,PE,ISFP,psychology,,working
+pietra63@example.com,22/05/1980,undergraduate,RJ,ESFP,business administration|psychology,,working
+nunesmaria-clara@example.net,30/08/1995,undergraduate,RJ,ISTJ,political science|psychology|dentistry,,researcher
+moraesgustavo@example.com,25/07/1986,highschool,MT,INTJ,hospitality|political science|marketing,ANPEC,unemployed
+nviana@example.com,26/12/1986,undergraduate,SP,ESTJ,business administration|economics|hospitality,,working on field of study
+pereiraisabel@example.net,13/01/1999,highschool,SP,INFP,database management|accounting|medicine,,unemployed
+sophia71@example.net,15/12/2007,incomplete,GO,ISTP,business administration,,unemployed
+vitor-hugofernandes@example.com,20/08/1980,undergraduate,CE,ESTP,agriculture,,working
+maria-isisbarbosa@example.net,08/01/1998,graduate,AP,ISTJ,machine learning|graphic design,,working on field of study
+jose90@example.com,27/07/2002,undergraduate,SP,ESFP,artificial intelligence|performing arts,,researcher
+maria-luisateixeira@example.org,16/07/1982,undergraduate,SP,INFP,dentistry|performing arts|veterinary medicine,,working on field of study
+fernandapastor@example.net,21/02/2008,incomplete,SP,ESTJ,political science|sports science|visual arts,,unemployed
+marcela76@example.org,26/11/1993,graduate,SP,ISTP,cybersecurity,,working
+gabriel04@example.org,11/07/2004,incomplete,RJ,ESFP,tourism,,working
+joanacaldeira@example.com,17/04/1999,graduate,MA,ESFP,business administration|physical education|visual arts,,working
+rodrigopinto@example.com,27/11/1990,undergraduate,RS,ENFP,public relations|hospitality|graphic design,,unemployed
+guilhermeda-paz@example.net,05/11/1995,undergraduate,MG,INFJ,psychology|philosophy|artificial intelligence,ANPEC,working
+joana84@example.org,05/08/1981,undergraduate,MG,INFJ,nursing|graphic design|literature,,working
+fgarcia@example.net,04/10/1989,undergraduate,MG,ISFP,cloud computing,,working
+ana-clarabrito@example.org,26/07/1992,graduate,SP,ESTJ,public policy|hospitality|education,,working on field of study
+josemelo@example.net,23/03/1993,undergraduate,PE,INTJ,cloud computing|music,,working on field of study
+lopesrafaela@example.net,28/05/1991,graduate,SP,ESTP,journalism|biology|advertising,,researcher
+bvieira@example.net,11/05/2002,incomplete,PE,ESFP,performing arts|advertising|sports science,,unemployed
+wmoraes@example.net,26/07/1983,undergraduate,RS,INFJ,civil engineering,,working
+jsampaio@example.net,31/05/1995,graduate,SP,ENTJ,philosophy|software engineering|law,,working
+clara60@example.org,04/09/1998,undergraduate,CE,ENFP,education,,working on field of study
+emanuellypimenta@example.org,03/04/1984,graduate,PR,INTJ,education|biology|physics,,working
+ceciliafonseca@example.com,03/11/1984,graduate,BA,ENTJ,database management,,working
+nascimentopedro-lucas@example.org,05/04/1991,undergraduate,DF,INTP,literature|physical education|marketing,,working
+meloelisa@example.com,12/03/1981,undergraduate,SP,INTJ,music|biology,,working on field of study
+sampaiocecilia@example.org,21/05/2006,incomplete,SP,ESFP,history|data science|biology,,working
+otavio84@example.org,08/11/2003,incomplete,SC,ESTJ,education|architecture,,working
+lsilveira@example.net,19/07/2000,graduate,AM,ENTP,public policy|mechanical engineering|architecture,,working
+zcamara@example.com,18/05/1987,undergraduate,RN,ENFP,agriculture,POSCOMP,working
+lorenzo30@example.com,02/09/1984,undergraduate,CE,ENFP,history|political science|physics,,researcher
+yborges@example.com,26/03/2003,undergraduate,TO,ISFP,visual arts|journalism|sports science,,working on field of study
+guilhermenogueira@example.com,20/07/1992,undergraduate,SP,ESTJ,civil engineering|marketing,,working
+luara67@example.net,21/03/1988,graduate,SP,INTP,journalism|cloud computing,,working on field of study
+fariasyasmin@example.com,09/01/1990,highschool,GO,ESFP,artificial intelligence,,researcher
+diogo41@example.org,14/01/1998,highschool,DF,ISTJ,history|graphic design,,working on field of study
+henriquesilva@example.org,18/09/1994,graduate,RJ,ESFJ,economics,,working
+kfreitas@example.com,26/06/2000,highschool,SP,ESFP,business administration|visual arts,,unemployed
+pmendonca@example.org,23/11/1982,undergraduate,RJ,ISFP,international relations|anthropology|marketing,,working
+ravi71@example.com,14/11/1996,undergraduate,ES,INFP,history,,working on field of study
+duarterafael@example.com,10/02/1990,graduate,SP,ESFP,chemistry|hospitality,,working on field of study
+joao-gabriel74@example.com,16/12/1982,undergraduate,RJ,ISTJ,accounting|visual arts,,researcher
+gpires@example.com,18/10/2001,incomplete,SP,ISTP,visual arts|physical education,,working
+arthur-miguel55@example.com,11/03/1991,graduate,RJ,INTP,agriculture|tourism|history,,working
+ian93@example.net,09/07/2006,incomplete,PI,ESTJ,business administration|journalism|public relations,,researcher
+joao-felipesales@example.net,01/12/2000,incomplete,SP,ISTJ,nutrition|hospitality|mathematics,,unemployed
+xporto@example.net,28/07/1989,undergraduate,SP,ENFP,journalism|machine learning,,working
+casa-grandelara@example.org,05/01/1995,highschool,SP,ESFJ,advertising|business administration,,working
+da-cruzdante@example.com,16/12/1989,undergraduate,RS,ESTP,business administration|chemistry,,working on field of study
+calebefreitas@example.net,02/06/1998,highschool,MA,ISFP,nutrition|international relations|graphic design,,working
+joao-guilherme55@example.org,21/06/1984,graduate,ES,INTP,mathematics,,working
+cmacedo@example.org,31/10/1982,undergraduate,RJ,ESTJ,civil engineering|sports science|biology,,working
+maria-ceciliada-rocha@example.net,17/12/1998,highschool,SP,ESTJ,agriculture|veterinary medicine|education,Vestibular UNICAMP,working
+goncalveshenry@example.net,12/11/1991,graduate,RS,ENTJ,cloud computing,,working on field of study
+lopesdaniel@example.org,08/11/2005,incomplete,RJ,ENTP,advertising,,unemployed
+peixotojoaquim@example.com,24/05/1992,graduate,PI,ISFJ,advertising|machine learning,,working on field of study
+kdias@example.net,25/03/1980,undergraduate,PE,ISFJ,law|artificial intelligence,,working
+maria-ceciliasa@example.org,05/03/1985,undergraduate,SC,ESTP,journalism|data science|music,,working
+camargomanuela@example.net,28/01/1995,undergraduate,MG,ENTJ,graphic design,,working on field of study
+wmarques@example.com,04/04/1994,graduate,RJ,INTP,advertising|environmental science,,unemployed
+liamcorreia@example.net,28/04/2007,incomplete,RS,ESFJ,journalism,,working
+maria-julia76@example.org,09/10/2006,incomplete,BA,ENTJ,sociology|linguistics|cloud computing,,unemployed
+felipe09@example.com,15/01/1991,undergraduate,SP,ISTP,business administration|artificial intelligence|veterinary medicine,,researcher
+bella01@example.net,01/08/1995,graduate,CE,ESTP,mechanical engineering|data science|pharmacy,,working on field of study
+benicio50@example.org,22/09/1999,graduate,SP,ESFJ,agriculture|music,,working
+kpastor@example.org,17/12/1996,graduate,AC,ESFJ,anthropology|database management,,researcher
+lavinianovaes@example.org,17/01/1995,graduate,SP,ISFP,sports science|political science,,researcher
+dleao@example.net,10/01/1994,graduate,AP,ESTP,history|machine learning,,working
+aabreu@example.com,23/12/2001,incomplete,RJ,ESTJ,education|anthropology|philosophy,,working
+emanuella94@example.com,23/09/1986,undergraduate,RJ,ISTJ,sociology,,working
+brunanovaes@example.net,28/02/2001,incomplete,SE,ESFJ,public relations,,unemployed
+maria-florsampaio@example.net,24/02/2004,incomplete,TO,ESFJ,hospitality|database management|music,,working
+ribeiroisis@example.net,25/05/1995,undergraduate,PE,ENTP,nursing|finance,,working on field of study
+eloahporto@example.org,23/07/1996,graduate,SP,ENFJ,software engineering,,working on field of study
+lais41@example.org,12/10/1982,undergraduate,SP,ESFP,public policy|law|physical education,,working on field of study
+oliverviana@example.org,17/05/1981,highschool,CE,INFP,nutrition|advertising,ANPEC,researcher
+pereiraana-sophia@example.org,20/01/1995,graduate,SP,ISFP,software engineering,,working
+monteiroanthony-gabriel@example.com,13/07/2002,incomplete,GO,ENFP,artificial intelligence|mathematics,POSCOMP,unemployed
+larissasiqueira@example.com,07/04/2005,incomplete,PB,ISFP,biology|machine learning|physics,,unemployed
+danielferreira@example.org,19/10/1992,undergraduate,TO,ENFJ,finance|mathematics|law,,working on field of study
+yviana@example.org,08/02/1986,undergraduate,PR,ESTP,international relations|business administration,,unemployed
+borgesagatha@example.org,06/12/1987,graduate,RJ,ISFP,education|visual arts|dentistry,,working
+da-pazleticia@example.org,31/03/2002,incomplete,RJ,INFP,law|biology|artificial intelligence,,working
+arthur-gabrielcostela@example.org,05/12/1980,undergraduate,RO,ISFJ,philosophy|medicine|nursing,,working
+benjamim74@example.net,10/09/2001,incomplete,ES,INFP,mechanical engineering|sociology|cybersecurity,,working
+xda-cruz@example.net,13/01/1995,undergraduate,RJ,ISTJ,nursing|database management|marketing,,working on field of study
+hazevedo@example.com,07/08/1989,undergraduate,SP,ENTJ,medicine|biology,,working on field of study
+lucasmonteiro@example.com,26/08/1997,undergraduate,CE,ISTP,medicine|literature,,working on field of study
+anna-lizabreu@example.net,13/12/1981,undergraduate,RJ,ISFP,database management,,working on field of study
+ldas-neves@example.com,11/11/2004,incomplete,RJ,INTJ,dentistry|chemistry|electrical engineering,,working
+davidias@example.com,29/12/1996,highschool,PE,ESTP,architecture|graphic design|business administration,,working
+manuellafernandes@example.com,27/07/2002,incomplete,SP,INTJ,political science|environmental science,,working
+zsiqueira@example.com,12/10/1987,undergraduate,PB,ISFJ,tourism|pharmacy,,working
+vsilveira@example.net,28/12/2001,incomplete,SC,INTP,journalism|sports science,,unemployed
+fariasana-livia@example.net,27/11/1980,undergraduate,SP,INTP,environmental science|nutrition|law,,unemployed
+lopespedro-lucas@example.net,31/01/1982,highschool,AM,ENTP,marketing|software engineering,Vestibular FATEC,working
+juliapinto@example.net,22/10/2004,incomplete,RJ,ISFP,veterinary medicine|physical education,,unemployed
+andrenovaes@example.org,03/09/1993,graduate,SP,ENFP,dentistry|philosophy,,working
+dnogueira@example.net,25/02/1993,graduate,PA,ESTJ,data science|advertising,,working
+camaramariah@example.org,18/10/1991,highschool,PB,ESFJ,electrical engineering,,unemployed
+rochaheloisa@example.net,04/12/1993,graduate,GO,INTJ,medicine|chemistry|education,ANPEC,unemployed
+otto44@example.com,10/11/1990,graduate,SP,INTJ,tourism|dentistry,,working
+vda-luz@example.org,10/01/1995,undergraduate,SP,ESFJ,marketing|music|electrical engineering,,researcher
+diogo25@example.net,22/11/2008,incomplete,PR,ESTJ,electrical engineering|hospitality,,unemployed
+theo92@example.net,24/11/2004,incomplete,AL,ENTP,medicine|software engineering,Vestibular FATEC|FUVEST,working
+maria09@example.net,23/10/2008,incomplete,RS,ISFJ,database management|history|nursing,,unemployed
+gomescaua@example.net,27/06/1994,graduate,SP,ENFJ,biology,,working
+fernanda62@example.net,13/07/2004,incomplete,PE,ISFJ,artificial intelligence|graphic design|public policy,,working
+nascimentomelissa@example.net,08/05/1989,undergraduate,RS,ISFP,dentistry,,unemployed
+jade62@example.org,23/10/2004,incomplete,SP,ENTP,sociology|machine learning|biology,,unemployed
+silvasophia@example.com,06/02/1990,undergraduate,RO,ESTP,cybersecurity,,working on field of study
+gael-henrique02@example.org,25/03/1994,undergraduate,SC,ISTP,web development|mathematics,,working
+antonella10@example.com,12/03/1990,undergraduate,SC,ISFJ,business administration|machine learning|cloud computing,,working on field of study
+joao-pedroborges@example.com,31/10/1992,incomplete,RJ,ENFJ,medicine|civil engineering|anthropology,,working
+teixeiramaria-fernanda@example.org,01/01/2002,incomplete,RS,ISFJ,political science|web development|machine learning,,working
+carolinefonseca@example.net,07/08/2003,incomplete,CE,ISFJ,database management|marketing|physical education,,unemployed
+rodriguesmariana@example.com,17/06/1984,graduate,AL,ENTP,education|nursing|civil engineering,,researcher
+vinicius97@example.com,16/05/1997,graduate,RJ,ENFJ,literature,,working on field of study
+rodriguesjoao-gabriel@example.net,15/07/2008,incomplete,MG,ENTP,web development,,unemployed
+joanapimenta@example.org,09/01/2004,incomplete,MG,INFJ,sports science|cloud computing|business administration,ENEM|Vestibular FATEC,working
+laviniarios@example.org,23/02/1988,highschool,DF,ESTP,performing arts|literature|data science,,unemployed
+vabreu@example.net,28/03/1992,undergraduate,SP,ENFP,journalism,,working on field of study
+joao-lucasferreira@example.net,22/07/1995,incomplete,CE,ENTP,biology|accounting|public policy,,working
+cecilia36@example.org,16/07/1995,undergraduate,MG,ISFP,mathematics|mechanical engineering,,working on field of study
+gustavosales@example.com,05/04/2000,undergraduate,MG,ESTJ,dentistry,,working on field of study
+eloahda-rosa@example.com,21/04/2004,incomplete,SP,INTJ,electrical engineering|economics|psychology,,working
+leaoaugusto@example.com,07/05/1989,undergraduate,GO,INTJ,physics|finance,,unemployed
+zmelo@example.net,13/12/1980,incomplete,PR,ISFJ,biology,,unemployed
+eborges@example.org,20/02/2000,highschool,BA,ESFJ,public relations|journalism|electrical engineering,,unemployed
+joanada-cunha@example.com,22/07/2000,highschool,RJ,ENFP,advertising|architecture|law,FUVEST|Vestibular FATEC,working
+maria-juliarezende@example.net,08/12/1988,undergraduate,CE,INFP,psychology|law|civil engineering,POSCOMP,working
+britohelena@example.net,26/02/1998,highschool,CE,ISTP,cybersecurity|law,,working
+raulsousa@example.net,02/09/1996,graduate,ES,ENFJ,public relations,,working
+siqueirafrancisco@example.com,27/02/1987,undergraduate,PR,ISTP,philosophy|machine learning,,researcher
+enzo-gabrielpinto@example.com,22/06/2004,incomplete,MG,ENTP,performing arts|political science,,working
+mateusabreu@example.net,20/01/1980,undergraduate,SP,INFP,graphic design,,unemployed
+alvesaurora@example.com,10/05/2000,graduate,PA,ISTJ,music|physics,,researcher
+raquel31@example.org,02/11/2002,undergraduate,SP,ESTJ,software engineering,,researcher
+yagogoncalves@example.com,08/09/1999,highschool,RJ,ESTP,civil engineering,POSCOMP,researcher
+daniel12@example.net,20/06/1994,undergraduate,RR,ENFP,marketing|journalism|business administration,,working
+julia75@example.net,31/03/1984,graduate,BA,INTJ,dentistry|machine learning,,working on field of study
+stellamachado@example.net,20/01/1995,undergraduate,CE,INTJ,journalism|business administration,,working on field of study
+agathamachado@example.net,07/02/2005,incomplete,RS,ENFP,philosophy|journalism,,researcher
+santosmaria-eduarda@example.net,08/10/1985,highschool,PR,ENFJ,anthropology|machine learning,,working
+ayla62@example.com,01/09/2004,incomplete,SP,INTJ,mathematics|database management,,working
+leandromelo@example.org,11/03/2004,incomplete,AP,ISFP,marketing|data science|accounting,,unemployed
+da-pazarthur-miguel@example.com,25/09/1999,graduate,SP,ESFJ,education,,working
+carlos-eduardo22@example.org,09/06/1984,highschool,AM,ENTP,advertising|nutrition,,working
+oda-mata@example.org,24/10/1982,incomplete,RJ,INFP,chemistry|international relations|veterinary medicine,,unemployed
+rodrigonogueira@example.com,20/09/1983,undergraduate,GO,INFP,software engineering|chemistry|public policy,,working on field of study
+vfonseca@example.com,27/07/1994,graduate,RJ,INTP,sports science|performing arts|sociology,,researcher
+gabrielly50@example.net,08/09/2004,incomplete,SP,ESTP,sociology,,researcher
+vitor-gabrielcavalcanti@example.com,12/08/2001,incomplete,SP,ESFJ,web development,,unemployed
+cassianosara@example.net,28/12/1980,undergraduate,RS,INTJ,history|physical education|machine learning,,researcher
+mendoncakevin@example.org,24/03/2000,highschool,CE,ISTP,veterinary medicine|performing arts,,working
+carolinegomes@example.net,12/04/1994,undergraduate,GO,ISTJ,data science|veterinary medicine|graphic design,,researcher
+brenda84@example.com,25/09/1990,undergraduate,SP,INTJ,journalism|medicine|music,,working
+nteixeira@example.org,04/04/1996,undergraduate,SP,INFP,chemistry|sociology|graphic design,,working on field of study
+melinaramos@example.net,15/08/1985,highschool,BA,ENFJ,medicine|accounting|visual arts,,unemployed
+ana-lauraviana@example.com,17/08/1989,graduate,MG,ESTP,economics|tourism|psychology,,working on field of study
+luiz-henriquemarques@example.net,01/03/1980,incomplete,SP,ESTJ,performing arts,,working
+abreuana-vitoria@example.com,04/02/1990,undergraduate,SP,ESFJ,mechanical engineering|biology|pharmacy,,working
+maria-claracosta@example.com,25/10/1995,undergraduate,SP,ENFJ,tourism|performing arts,,working
+pdas-neves@example.org,07/01/1993,undergraduate,BA,ISFP,artificial intelligence|chemistry,,working on field of study
+nmartins@example.org,25/07/1984,graduate,BA,INTP,physics|physical education|psychology,,working on field of study
+xduarte@example.net,23/01/2004,incomplete,RS,INTP,linguistics|physical education|sociology,,working
+cunhamaria-liz@example.org,29/11/2005,incomplete,AP,ENTP,marketing|artificial intelligence,,unemployed
+rhavi87@example.com,30/06/1999,highschool,RJ,ENFP,finance|artificial intelligence|anthropology,,working
+giovannarezende@example.org,14/09/1992,highschool,PR,INFJ,economics|mathematics|finance,,working
+cardosojoao-felipe@example.net,14/02/1992,undergraduate,MG,ENFJ,journalism,,working on field of study
+marinavieira@example.org,02/06/1998,undergraduate,SP,ISTP,database management|medicine|cybersecurity,POSCOMP,researcher
+xaragao@example.net,18/06/1997,highschool,RJ,ESFJ,marketing,,working
+qnascimento@example.net,21/04/1989,undergraduate,SP,ESFJ,physics|mathematics|business administration,,working
+olivia34@example.com,26/12/1990,highschool,RJ,ESTP,nutrition|public relations|visual arts,,unemployed
+fcostela@example.com,31/07/1987,undergraduate,MG,ISFP,psychology|hospitality|cloud computing,ANPEC,unemployed
+da-rosaguilherme@example.com,27/12/2001,incomplete,SP,ENTJ,data science|hospitality|political science,,working
+eduardo29@example.org,07/10/1998,highschool,SP,INTJ,artificial intelligence|hospitality|pharmacy,,working
+mateus02@example.com,09/09/1993,undergraduate,PR,INFJ,visual arts,,working
+riosluiz-gustavo@example.com,18/12/2001,incomplete,PA,ESTP,graphic design|finance,,working
+da-rosajosue@example.com,01/05/1985,highschool,RJ,ESFJ,marketing,,working
+zda-mota@example.com,03/05/1991,undergraduate,RJ,ESFP,visual arts,,working on field of study
+isaque69@example.net,31/12/1982,undergraduate,RJ,ESFP,mathematics,,working
+eporto@example.com,24/12/2001,incomplete,MA,ESTP,visual arts,,unemployed
+carvalhoheloisa@example.org,15/12/1991,highschool,SP,ESTJ,tourism,,working
+wda-costa@example.com,01/03/2005,incomplete,SP,ISTP,web development|international relations,,unemployed
+moraesdavi-miguel@example.org,03/12/1981,undergraduate,SP,ENTJ,biology,,working on field of study
+bernardovasconcelos@example.net,26/02/1986,undergraduate,MS,INTP,electrical engineering,,working on field of study
+ecosta@example.org,09/11/1983,undergraduate,MG,INFP,pharmacy|graphic design,,working
+ssouza@example.com,01/05/1987,graduate,PR,ENFJ,linguistics|veterinary medicine,,working
+eteixeira@example.com,07/04/1983,undergraduate,SP,ISTP,advertising,,working on field of study
+antonysousa@example.org,05/01/2003,incomplete,RJ,ISTP,data science,,researcher
+agatha40@example.com,25/09/1980,undergraduate,RJ,ENTP,mathematics|physics|pharmacy,,working
+davi-lucas43@example.com,01/07/1992,undergraduate,SP,ENTP,sociology|performing arts,,working
+diogo06@example.org,02/05/1997,graduate,BA,ENFP,cloud computing|literature,,working on field of study
+pereiraanna-liz@example.com,08/05/1996,highschool,SP,INTJ,machine learning|physical education|dentistry,Vestibular FATEC|FUVEST,working
+hgoncalves@example.org,07/06/2000,undergraduate,SP,ISFP,electrical engineering|cloud computing,,working on field of study
+agatharios@example.com,05/10/1980,undergraduate,PR,ESTJ,mechanical engineering|environmental science|sociology,ANPEC,working
+lpinto@example.org,12/09/1983,undergraduate,MG,ISTP,data science,,researcher
+vargasbento@example.net,05/12/1993,undergraduate,SP,INTP,veterinary medicine|artificial intelligence,,unemployed
+nrios@example.net,18/06/1993,highschool,MG,ESTJ,dentistry|tourism,,unemployed
+emanuel28@example.com,12/05/1994,highschool,SC,ENTJ,law|cybersecurity|electrical engineering,,unemployed
+nunesisabela@example.org,31/12/1988,highschool,RS,INFJ,physics|public policy|psychology,,working
+liz98@example.net,04/01/2002,incomplete,RO,ISFJ,anthropology|economics|civil engineering,,working
+ppastor@example.org,07/11/1980,undergraduate,PI,INTJ,education|agriculture,,working
+machadopedro-miguel@example.org,18/08/1999,graduate,SP,ISFJ,history,,working on field of study
+jmendes@example.org,29/08/2001,incomplete,PE,ENTJ,finance,,working
+isaque38@example.com,16/10/1996,undergraduate,AP,INFJ,law,,working on field of study
+lizribeiro@example.org,02/02/2005,incomplete,SC,INFJ,advertising|political science|journalism,,working
+cbrito@example.org,19/06/1981,graduate,SP,INTP,journalism,,working
+souzamarina@example.net,30/09/1999,graduate,PE,INFP,business administration|public relations|biology,,researcher
+eloah81@example.net,24/03/1980,undergraduate,RJ,ENTJ,international relations|machine learning|psychology,,unemployed
+hpires@example.org,03/11/1990,graduate,TO,INFP,political science|international relations|artificial intelligence,,researcher
+caldeirahadassa@example.net,21/10/2007,incomplete,SP,INTJ,agriculture|music|civil engineering,,unemployed
+theomacedo@example.com,15/05/1983,undergraduate,SP,ENTP,public policy|accounting,POSCOMP,working
+nina72@example.org,10/05/1984,graduate,SP,ENTP,database management|advertising,,working on field of study
+vfogaca@example.com,26/10/2002,incomplete,MT,ESFP,linguistics,,working
+dalves@example.org,15/07/1999,undergraduate,MG,INFP,anthropology|sports science|finance,,working on field of study
+ecunha@example.com,08/09/2000,undergraduate,SP,ISTP,business administration|pharmacy,,working
+gomesgael@example.org,17/05/1998,highschool,SC,INTJ,chemistry,,working on field of study
+smartins@example.net,20/12/1988,graduate,BA,INFJ,business administration|nutrition|medicine,,working
+isaque52@example.net,03/03/1996,undergraduate,SE,ISTJ,nursing|journalism,,working on field of study
+isabelly51@example.net,30/05/2002,incomplete,MG,ISFP,visual arts|nursing|veterinary medicine,,unemployed
+fmelo@example.org,22/12/1999,highschool,SP,INTP,philosophy|nursing|electrical engineering,,working
+abreunathan@example.com,05/01/1980,highschool,MG,ENFP,artificial intelligence,Vestibular FATEC|FUVEST,working
+holiveira@example.org,31/08/1985,graduate,MG,ISFP,medicine,,researcher
+jmendes@example.org,14/12/2008,incomplete,PB,ISFJ,data science|civil engineering,,unemployed
+noahcaldeira@example.org,02/08/2000,undergraduate,SP,ESTJ,education,,working on field of study
+mcamargo@example.net,02/03/2004,incomplete,RJ,ENFJ,nursing|sports science|machine learning,,working
+smartins@example.org,10/08/1988,graduate,SP,INFJ,veterinary medicine,,working on field of study
+sandrade@example.com,31/05/2007,incomplete,RJ,ISFP,visual arts,,working
+laismoura@example.com,05/08/1995,graduate,SC,ISTJ,public relations,,working
+jpimenta@example.org,07/05/1985,undergraduate,PE,INFP,machine learning,,working
+matheuscavalcante@example.org,01/06/2004,incomplete,SP,ISTJ,cybersecurity|civil engineering,,unemployed
+lais45@example.com,07/09/2000,graduate,SP,ESFJ,graphic design|sociology|hospitality,,working on field of study
+rauldas-neves@example.net,17/02/2006,incomplete,AL,ISTP,visual arts|music,,working
+luanbrito@example.org,18/05/2002,incomplete,SP,ENFP,data science,POSCOMP,working
+qmendonca@example.org,03/09/2008,incomplete,SP,INTP,machine learning|database management,,unemployed
+gustavo15@example.net,02/05/2006,incomplete,CE,ENTP,philosophy|psychology|medicine,,working
+mendesjose-miguel@example.com,13/06/1996,highschool,MG,ISFJ,hospitality|dentistry|education,,working
+toliveira@example.org,19/12/2005,incomplete,SP,INTJ,literature|medicine,,working
+albuquerquejoao-felipe@example.net,20/07/1990,graduate,MG,ISFP,mathematics|veterinary medicine|advertising,POSCOMP,working
+brenoda-mota@example.com,01/11/2000,incomplete,BA,INTP,environmental science|dentistry,,unemployed
+lguerra@example.net,19/04/1989,undergraduate,SP,INTJ,history|law,,researcher
+carvalhotheo@example.org,06/09/1992,graduate,SC,ISTP,agriculture|nutrition,,working
+manuelacirino@example.net,05/08/2007,incomplete,DF,ENTJ,physics,,working
+almeidadiogo@example.org,20/10/1993,graduate,SE,ESTP,agriculture,,working
+kevinsilveira@example.net,29/04/1996,highschool,RS,ISFJ,visual arts|public policy,,unemployed
+acirino@example.org,22/07/1980,highschool,MG,ISFJ,philosophy|finance,,unemployed
+caldeiragabriela@example.net,25/01/1982,highschool,PE,ESFJ,tourism|machine learning|psychology,,working
+cardosojose-pedro@example.net,11/10/1990,undergraduate,MG,ENFP,public policy,,working
+rafaelsousa@example.net,07/04/2007,incomplete,PR,ISFJ,law,,working
+amoreira@example.org,17/12/1987,undergraduate,SC,INTP,accounting,,researcher
+caiomoreira@example.net,07/10/1999,graduate,TO,INFP,journalism|economics,,working on field of study
+hadassacavalcanti@example.org,07/05/1997,graduate,MS,ENFP,medicine|music|education,ANPEC,working
+aguerra@example.net,27/12/1989,undergraduate,RS,ESTP,pharmacy|tourism|cybersecurity,,working on field of study
+das-nevesarthur-miguel@example.com,16/02/1991,highschool,SP,ESTJ,performing arts,,working
+melootavio@example.net,24/01/1999,undergraduate,RJ,ENFP,advertising|mathematics|business administration,,working on field of study
+isispinto@example.net,22/03/1986,graduate,RJ,INFJ,advertising,,working
+ferreirastephany@example.net,06/04/1983,undergraduate,BA,ENFJ,anthropology|nutrition|mathematics,,researcher
+das-nevesmaria-fernanda@example.org,11/08/1999,graduate,BA,ESTJ,physical education,,working
+mendesyuri@example.com,18/06/1990,highschool,SC,ENTP,philosophy|education,,working
+novaiscaio@example.org,18/11/1995,undergraduate,PB,ESTP,literature|dentistry|public policy,ANPEC,working
+kmachado@example.com,21/01/1980,graduate,CE,ISTP,biology,,working
+laviniamartins@example.com,26/05/1995,undergraduate,PE,ISTJ,education|environmental science,,working on field of study
+ester92@example.net,05/06/1990,undergraduate,MT,ESFP,artificial intelligence|public policy|database management,,working
+maria-flor89@example.org,16/01/1996,highschool,MG,ESTJ,public relations,,unemployed
+calebecunha@example.net,19/03/1990,highschool,SP,ESTJ,advertising|physical education|journalism,,working on field of study
+fonsecacaue@example.com,17/10/1992,undergraduate,RR,ESTJ,performing arts|linguistics|anthropology,,researcher
+fonsecathomas@example.org,11/06/1986,undergraduate,MS,ESFJ,business administration|medicine,,researcher
+lauraalbuquerque@example.org,06/09/1986,undergraduate,SP,ESTJ,journalism|mathematics|nursing,,working
+cauemendonca@example.net,17/12/2007,incomplete,SP,ENFP,journalism,,unemployed
+pedro94@example.org,29/10/2005,incomplete,SE,ISTJ,accounting,,unemployed
+franciscoalbuquerque@example.org,07/09/2007,incomplete,AL,INTJ,machine learning|anthropology,,researcher
+enzo-gabrielnascimento@example.com,17/08/1985,graduate,SP,ENTP,public relations,,working
+diogoandrade@example.net,28/08/2006,incomplete,SP,ESTJ,performing arts,,working on field of study
+britomanuela@example.net,27/07/1983,graduate,BA,ENTP,education,,working on field of study
+cassianothales@example.net,12/01/2007,incomplete,PB,ESTJ,public relations|public policy,,unemployed
+kaique52@example.net,13/09/1984,highschool,RS,INFP,tourism|architecture,,unemployed
+joao-gabriel21@example.com,11/02/1994,graduate,RS,INTJ,public relations,,working
+xaragao@example.com,18/01/1981,graduate,MG,ENTP,business administration|electrical engineering,,working on field of study
+antoniofarias@example.org,16/12/2002,incomplete,RJ,INTJ,philosophy|data science|linguistics,,working on field of study
+alveslunna@example.net,30/11/1991,highschool,MA,ENFP,education|sports science|music,,unemployed
+garcianicole@example.net,26/12/2000,highschool,AC,ENFJ,education|accounting,,working
+maria-lauraazevedo@example.com,22/10/1983,undergraduate,MG,ENTJ,public relations|nursing|performing arts,,unemployed
+bianca18@example.com,12/11/2003,incomplete,AM,ESFJ,database management|environmental science|sports science,,working on field of study
+maria-vitoria21@example.com,25/03/1989,incomplete,SP,INFP,public relations|pharmacy|advertising,,working
+raelborges@example.com,27/04/1987,undergraduate,RS,ESFJ,business administration,,working on field of study
+araujoana-laura@example.net,05/12/1990,highschool,RR,ESFP,journalism,,researcher
+souzamanuella@example.com,05/06/1991,undergraduate,AC,INTP,chemistry,,working on field of study
+maria-lizgarcia@example.net,06/01/1984,graduate,SP,ENTP,accounting|veterinary medicine|linguistics,,working
+rezendecaua@example.org,09/09/2005,incomplete,ES,ESTJ,nursing|sociology,,unemployed
+luigimachado@example.org,14/02/2003,incomplete,SP,ESFP,marketing|biology,,working
+maria-sophia43@example.com,24/03/1996,highschool,SC,ISTP,marketing,,working
+gleao@example.net,03/01/1992,graduate,CE,ESFP,cybersecurity|graphic design|physics,,working
+teixeiralevi@example.com,04/03/2005,incomplete,SC,ISFJ,business administration|music|civil engineering,,working
+helena84@example.net,16/08/2003,incomplete,SP,ENFJ,philosophy|music|psychology,,researcher
+vicentecassiano@example.net,10/10/2000,incomplete,ES,ENTJ,software engineering|performing arts,,working
+kaiquecampos@example.org,02/12/1990,undergraduate,SP,ESTJ,education|nutrition,,working on field of study
+jmarques@example.org,03/12/1996,undergraduate,MG,ESTP,agriculture,,working
+sazevedo@example.com,10/01/1984,highschool,PR,INTJ,political science|economics,,unemployed
+bcosta@example.org,20/05/2003,incomplete,CE,ENFJ,advertising|psychology|chemistry,,working
+luara78@example.org,09/05/2004,incomplete,PR,ENTJ,philosophy|nutrition,,working
+valentim68@example.com,17/10/1985,undergraduate,GO,INFP,anthropology|environmental science,,working on field of study
+anthony-gabriel91@example.org,10/09/1988,graduate,MG,ESTP,chemistry|architecture|visual arts,,researcher
+siqueirasamuel@example.net,25/10/2003,incomplete,RS,ENTJ,cybersecurity,,working
+salesmilena@example.com,14/10/1999,undergraduate,RS,INTP,anthropology|sports science|physical education,,working on field of study
+gcampos@example.net,26/11/1983,highschool,PA,ISTJ,machine learning|nutrition|visual arts,,working on field of study
+valentimda-cunha@example.com,19/04/1988,graduate,SP,ISFJ,performing arts|artificial intelligence|nutrition,,working on field of study
+ayla22@example.org,28/03/1982,highschool,TO,ISFP,political science|history,,working
+isaque96@example.org,10/07/1985,graduate,PE,ISFJ,law|sports science|international relations,,working
+lunna82@example.com,20/02/2005,incomplete,SC,INFJ,cybersecurity|public relations,,working
+stephanycunha@example.org,14/04/1998,highschool,AP,ISFP,anthropology|data science,,working
+camposisaque@example.net,17/02/1985,incomplete,RS,ENFJ,business administration,,working
+gmendonca@example.com,10/06/1993,graduate,RN,INTJ,accounting,,working
+kaiquemendonca@example.com,26/08/1982,undergraduate,RJ,ENTP,education|law,,working
+almeidavicente@example.org,25/11/1985,graduate,MA,ESFP,cloud computing,,researcher
+luiz-felipe20@example.org,23/07/1994,highschool,PE,ESFJ,business administration|machine learning|political science,Vestibular FATEC,working
+wda-conceicao@example.org,29/08/1988,undergraduate,RR,ENTJ,public policy,,working on field of study
+eduarda89@example.com,14/10/2006,incomplete,SP,ESTJ,graphic design|political science|database management,,unemployed
+fernandeslivia@example.net,26/04/1993,undergraduate,RJ,ISFP,software engineering|sports science|political science,,unemployed
+martinsbento@example.org,23/08/2003,incomplete,SP,ESTJ,psychology|biology|physical education,,working
+gael-henrique70@example.net,23/09/1992,highschool,RJ,ISTP,dentistry|architecture,,unemployed
+anthony-gabrielrocha@example.net,21/02/1982,undergraduate,AL,INTP,nursing|medicine,,researcher
+rodriguesdanilo@example.net,09/10/2005,incomplete,AP,ESTP,public relations,,unemployed
+bryan94@example.com,28/06/2008,incomplete,PR,INTJ,nursing,,unemployed
+gomesmatteo@example.com,01/08/1989,undergraduate,SP,ESTJ,hospitality|cybersecurity,,working on field of study
+larissa95@example.net,28/08/2008,incomplete,PI,ENFJ,business administration|performing arts|web development,,unemployed
+eteixeira@example.org,16/04/2002,incomplete,RJ,ENFJ,software engineering|dentistry,,researcher
+csouza@example.net,24/02/1986,incomplete,BA,ISFP,economics|international relations|hospitality,,unemployed
+ayla13@example.com,27/09/1987,undergraduate,RJ,ENTJ,graphic design|business administration,,working on field of study
+oliveiraluara@example.net,18/08/2002,incomplete,MT,ESTP,cybersecurity|business administration|database management,,working
+luansilveira@example.net,10/09/2000,highschool,SP,ESTJ,dentistry|sociology,,working on field of study
+caue63@example.com,01/09/1990,highschool,MG,INFP,electrical engineering|music|architecture,,working
+catarina16@example.org,11/06/2008,incomplete,SC,INTP,graphic design,,unemployed
+lopesmaria-laura@example.net,20/09/1988,undergraduate,MG,ENFP,public policy|history,,unemployed
+vda-cunha@example.net,08/02/2005,incomplete,RJ,INTP,sports science,,unemployed
+theoleao@example.org,16/10/1989,graduate,MA,ESFJ,cybersecurity|web development,,unemployed
+melovitor-hugo@example.com,26/04/1995,undergraduate,CE,ENTP,database management|international relations,,working on field of study
+rochaana-clara@example.org,28/10/1983,highschool,MT,ENFJ,international relations|linguistics,,working
+wrocha@example.net,09/01/1993,highschool,RJ,ESTJ,marketing,Vestibular FATEC|Vestibular UNICAMP,working
+sampaioeloa@example.org,12/11/1994,undergraduate,RN,INFJ,linguistics|biology|nutrition,,working on field of study
+da-cruzsara@example.com,13/03/2002,incomplete,RJ,ISTJ,sociology|agriculture|sports science,,unemployed
+enzobarbosa@example.net,24/08/2005,incomplete,RJ,INTJ,business administration|international relations|software engineering,,working
+freitasbryan@example.net,13/01/1986,undergraduate,AC,INFJ,literature,,researcher
+anna-lizfreitas@example.org,09/05/1996,graduate,RS,ISTP,linguistics,,working on field of study
+jcorreia@example.com,16/03/2008,incomplete,SP,ENTJ,linguistics,,unemployed
+caldeiraluiz-fernando@example.net,04/06/1982,undergraduate,DF,ENTP,education|mechanical engineering,,researcher
+mabreu@example.net,18/08/1997,highschool,SP,ENFP,tourism|linguistics,,working
+mayacirino@example.net,08/11/2002,highschool,RJ,ESTP,environmental science|music,,unemployed
+ncostela@example.net,29/09/1989,undergraduate,RJ,ENTP,education,ANPEC,researcher
+felipe02@example.org,19/03/2000,graduate,SP,ESTP,business administration|biology|performing arts,,unemployed
+joao-vitor02@example.net,13/02/1998,highschool,RS,ENTJ,visual arts|sports science,,working
+da-rosadavi-lucca@example.com,18/08/2003,highschool,SP,ESFP,advertising|data science|tourism,,working
+daniel24@example.net,18/10/2005,incomplete,RS,INFJ,software engineering,,unemployed
+luana24@example.com,16/10/1998,graduate,PI,ISTP,public relations|visual arts,,working
+yjesus@example.net,10/08/1993,graduate,SP,ESFJ,advertising|public policy,,working
+estersilva@example.com,02/06/1985,undergraduate,RJ,ESFP,law,,working
+qbarros@example.org,19/03/2003,highschool,PE,ISFP,cybersecurity,,working
+pviana@example.org,10/07/1991,undergraduate,SP,ESFP,dentistry,,working on field of study
+macedoyago@example.com,29/04/1985,undergraduate,CE,INFJ,philosophy|mathematics,,unemployed
+souzamateus@example.org,08/10/1998,undergraduate,PI,ISFP,music|physics,,working on field of study
+ubrito@example.com,07/09/2004,incomplete,ES,ISFP,web development|accounting,,working
+maria-julia62@example.com,19/09/1980,undergraduate,MG,INTJ,public relations|database management|law,,working on field of study
+pedro-lucas36@example.net,09/08/2001,incomplete,RS,ISTP,finance,,working
+casa-grandeester@example.net,08/01/1993,undergraduate,SC,INFP,business administration|economics,,working
+montenegroana-julia@example.com,10/11/1982,undergraduate,SP,ESTJ,marketing|anthropology,,working
+otto75@example.org,12/02/1995,undergraduate,CE,ESTP,mechanical engineering|machine learning,,working
+ksilva@example.com,22/03/1995,highschool,SP,ESFJ,veterinary medicine|literature,,working
+oliveiraluiz-felipe@example.net,31/05/2001,incomplete,SP,INFP,dentistry|international relations|journalism,,unemployed
+fariascecilia@example.org,31/10/1995,highschool,RJ,ENFP,sociology,ANPEC,working
+davi-luizsampaio@example.net,22/05/1984,incomplete,SP,ENFJ,business administration|environmental science|graphic design,,working
+jcamargo@example.net,25/03/1996,graduate,RS,INFJ,cloud computing|linguistics|accounting,,working
+da-rochaana-cecilia@example.org,24/02/1983,graduate,RJ,ISTP,software engineering,,working
+viniciuscirino@example.org,22/05/1995,undergraduate,CE,ISFJ,mechanical engineering|cloud computing,,working
+luiz-otavioramos@example.net,10/07/2005,incomplete,RJ,ISTP,biology,,working
+lopesjuliana@example.net,04/05/2003,incomplete,SP,ENFP,medicine|finance|mathematics,POSCOMP,unemployed
+alice99@example.com,20/01/1982,undergraduate,PA,INTP,performing arts|cybersecurity,,working
+costahelena@example.com,06/12/2007,incomplete,GO,INFJ,visual arts,,unemployed
+arthur-gabriel92@example.org,27/09/1999,undergraduate,BA,ESFJ,economics,ANPEC,working
+rsilveira@example.com,15/12/1990,undergraduate,BA,ENFJ,linguistics|law,POSCOMP,researcher
+pietra71@example.org,12/08/2004,incomplete,BA,INFJ,physics|software engineering|nursing,,working
+peixotoanthony-gabriel@example.com,29/08/2005,incomplete,PB,INFP,cybersecurity|environmental science,,working
+benjaminnunes@example.com,08/03/2002,incomplete,SP,ENFJ,journalism,,working
+maitecassiano@example.org,28/05/1982,highschool,RJ,ESTP,business administration,,working on field of study
+rcosta@example.com,19/05/1988,undergraduate,RJ,INTJ,law|dentistry,,working
+opeixoto@example.com,10/08/2005,incomplete,SP,ENFJ,sociology,,working
+fernando52@example.net,29/11/2008,incomplete,CE,ESTP,journalism|tourism|machine learning,,unemployed
+lunnacunha@example.net,15/11/2001,incomplete,SP,INFP,accounting,,unemployed
+beatrizda-mota@example.org,02/02/1989,undergraduate,PR,ISFJ,physics,,working
+gabrielbarros@example.com,18/08/1981,highschool,PA,ISFJ,physical education|political science,,working
+ana-liviamachado@example.net,04/08/1994,highschool,MG,ESFJ,performing arts,,unemployed
+ymoura@example.com,26/03/2005,incomplete,BA,ENTP,pharmacy|mechanical engineering|linguistics,,unemployed
+esther97@example.com,07/08/1990,highschool,DF,ENTP,education|sports science,,unemployed
+ana-beatriz39@example.net,11/09/1983,undergraduate,BA,INFP,graphic design|civil engineering,,working
+eazevedo@example.com,01/08/1983,incomplete,SP,ENTP,accounting,,unemployed
+garciaasafe@example.com,16/05/1986,highschool,SP,ENTP,education|law,,working
+lopesana@example.net,29/06/1992,undergraduate,SP,ISTP,law|civil engineering,,working
+aylarodrigues@example.com,25/08/2005,incomplete,RJ,ESFP,cybersecurity|nursing|civil engineering,,working
+mmarques@example.org,17/12/1989,highschool,AL,INFP,graphic design,,working
+gustavo-henrique62@example.com,07/08/1982,undergraduate,DF,INFJ,medicine|physics,,working on field of study
+dom97@example.net,19/03/1989,undergraduate,SP,ISTP,software engineering|public relations|chemistry,,researcher
+montenegroevelyn@example.org,14/11/1996,undergraduate,PR,ESTJ,public relations|civil engineering,,working
+costavitor-gabriel@example.net,09/08/1996,undergraduate,ES,ENFP,education,,working on field of study
+ana-luiza60@example.com,17/04/1999,graduate,SC,ESTP,history,,working on field of study
+bento41@example.net,13/12/2005,incomplete,RS,ISFJ,visual arts|dentistry|literature,,working
+udas-neves@example.net,11/07/1988,undergraduate,SP,ENFJ,international relations|cloud computing,,working
+hduarte@example.org,24/07/1983,undergraduate,CE,INTP,mathematics|web development,POSCOMP|ANPEC,working
+benjamimvargas@example.net,06/04/2000,undergraduate,SP,INFJ,finance|international relations|database management,,researcher
+lucas-gabrielabreu@example.org,15/07/1988,highschool,SP,ESFP,education,,working
+ana-sophiacavalcanti@example.com,12/06/1988,undergraduate,BA,ISFJ,education,,working
+hdias@example.net,29/02/2000,graduate,RO,INFJ,web development|public policy|literature,,working on field of study
+cnovaes@example.com,04/12/1984,highschool,PR,ENTP,physical education,,working
+zpeixoto@example.org,11/11/1991,highschool,MG,ISFJ,artificial intelligence|music,,unemployed
+emanuella24@example.net,30/08/1983,graduate,AM,ESTP,visual arts|performing arts,,working
+wdias@example.net,25/11/1991,undergraduate,RR,INFP,psychology,,working on field of study
+montenegroana-liz@example.com,11/04/1987,undergraduate,BA,ISFP,public policy,,working on field of study
+luanamoreira@example.com,08/05/1995,undergraduate,MS,ESTJ,anthropology,,working on field of study
+carvalhomathias@example.net,12/03/2007,incomplete,MG,INFP,cybersecurity|nursing,,working
+nicole67@example.org,26/02/1992,undergraduate,SP,ISTP,cybersecurity|accounting,,working
+costaheloisa@example.org,14/02/1988,undergraduate,MG,INFP,architecture|law|cloud computing,,working
+maria-alicegomes@example.com,10/09/2002,incomplete,RS,ESTJ,accounting,,working
+icorreia@example.net,17/11/2000,incomplete,SP,INTP,economics,,working
+mendesnicolas@example.com,01/03/1983,undergraduate,SP,INFJ,physics|music,,working on field of study
+fariasnina@example.org,16/05/1995,undergraduate,CE,ESTJ,hospitality,,working
+camila47@example.org,31/07/2000,graduate,BA,ENFJ,public policy,,working
+laramachado@example.com,02/06/2004,incomplete,RJ,ENTP,physical education,,unemployed
+frezende@example.net,07/11/1987,undergraduate,MG,ISFP,sports science|political science|philosophy,,working on field of study
+xjesus@example.com,12/06/1985,undergraduate,SP,ESTJ,physical education|physics,,working
+milenada-paz@example.com,03/10/1993,highschool,PE,ENFJ,web development|mathematics|pharmacy,,working
+joao-pedro43@example.org,05/07/1993,graduate,PE,ISFJ,graphic design,,working
+lauramonteiro@example.net,27/09/1987,highschool,MG,ENFJ,literature,,working
+pastorthales@example.net,17/03/2005,incomplete,PA,ISTP,hospitality|history,,working
+almeidaalexia@example.com,23/11/1991,undergraduate,RJ,ESTJ,tourism,,working on field of study
+maria-sophia60@example.net,25/02/1988,highschool,AL,INFJ,literature,FUVEST,working
+saanna-liz@example.net,01/01/1992,undergraduate,BA,ENTJ,marketing,,working
+thales06@example.net,03/03/1994,undergraduate,RS,ISTP,journalism,POSCOMP,working
+mda-mata@example.org,29/04/1981,incomplete,AM,INTP,chemistry,,working
+jfarias@example.net,06/07/1996,graduate,RJ,ESTP,database management|pharmacy,,working
+ida-conceicao@example.com,20/06/1999,highschool,GO,ISFJ,nutrition|business administration,,working
+vianarenan@example.org,26/02/2006,incomplete,PE,ESTP,hospitality|web development|visual arts,,working
+ramosclarice@example.com,11/05/1980,undergraduate,PI,INTP,environmental science|hospitality|cloud computing,,working
+estherjesus@example.com,07/12/1998,undergraduate,RJ,ISTJ,literature,,working on field of study
+carvalhoarthur@example.com,04/10/2006,incomplete,MG,ESFP,psychology,,unemployed
+marquesana-sophia@example.com,07/11/1984,highschool,SP,ESTP,environmental science|nursing,,working
+leo82@example.org,31/01/1999,undergraduate,RJ,ESTP,finance|software engineering|electrical engineering,,working on field of study
+gomesana-laura@example.net,07/10/1997,undergraduate,AP,ESFP,economics|marketing|biology,,researcher
+ana-carolina87@example.com,04/05/1986,undergraduate,RJ,ESTP,music,,working
+bcaldeira@example.net,26/03/1989,incomplete,DF,ESFJ,sports science|electrical engineering|mechanical engineering,,working
+melina44@example.org,13/05/1983,graduate,RJ,ISFP,law|physics|cybersecurity,,working
+luiz-miguel04@example.com,10/09/2005,incomplete,MG,ESFJ,marketing|cloud computing,,working
+qalmeida@example.net,06/07/2001,incomplete,SP,ENTJ,public policy|mathematics|cybersecurity,,working
+lauraramos@example.com,28/08/1998,highschool,BA,INFJ,civil engineering|education|linguistics,,working
+pastorjoaquim@example.net,08/03/2001,incomplete,RJ,ISFP,history,ANPEC,unemployed
+ayla41@example.net,20/08/2005,incomplete,RS,ISTJ,cloud computing,,working
+nascimentopedro@example.com,17/11/2004,incomplete,PB,ENTJ,architecture|hospitality|civil engineering,,unemployed
+anna-lizaragao@example.com,11/06/2000,graduate,RJ,INTJ,physics|economics|international relations,,working
+camposjoao@example.net,17/03/2007,incomplete,SP,ISFP,education|mathematics|sports science,,working
+calebe24@example.com,26/12/2005,incomplete,MG,ISTJ,business administration,,working
+wabreu@example.org,09/06/2008,incomplete,SC,ESFJ,international relations,,unemployed
+alexandrepinto@example.org,17/02/1991,undergraduate,MG,ESTJ,agriculture|sociology,,working on field of study
+ribeiroenzo@example.com,09/08/2001,incomplete,PA,ENTJ,pharmacy|physical education|data science,,unemployed
+lorenabarros@example.net,15/02/1997,graduate,SP,ESTJ,biology|visual arts,,working
+allananunes@example.org,31/03/1981,undergraduate,PB,ISFJ,accounting|dentistry|performing arts,,working on field of study
+gustavo68@example.org,07/12/1989,undergraduate,SP,ESTP,political science|linguistics,,working on field of study
+ana-carolinada-paz@example.com,07/02/1982,undergraduate,MG,ESTP,public relations|pharmacy,,working on field of study
+diegonovais@example.com,31/12/1986,graduate,RJ,ISTP,marketing,,researcher
+guerraravi@example.org,20/09/1980,highschool,PA,INTJ,artificial intelligence|hospitality|public policy,,unemployed
+rpereira@example.org,26/10/1993,highschool,GO,ENFJ,machine learning,,working
+vandrade@example.com,01/10/2006,incomplete,RN,ESFJ,nutrition|journalism,,working
+pedro-henrique00@example.net,08/10/1988,undergraduate,RJ,ENTJ,physical education|data science|nutrition,,working
+hadassada-conceicao@example.net,06/10/2006,incomplete,RJ,ENFP,architecture,,working
+salescaua@example.com,01/12/1982,highschool,MG,ISTP,artificial intelligence,,working
+portocecilia@example.com,20/02/1993,highschool,MG,ISTJ,law,,unemployed
+davi-lucca55@example.com,07/09/1992,graduate,MG,INTP,philosophy|education|marketing,,working
+evelyngoncalves@example.org,22/01/1991,undergraduate,BA,ISFP,nutrition,,working on field of study
+cavalcantevinicius@example.org,06/11/1984,undergraduate,CE,ENTP,literature,,working
+fogacaeloa@example.org,06/04/1984,graduate,CE,INTJ,accounting,,researcher
+ana-cecilia06@example.net,05/10/2001,incomplete,AM,ESTJ,advertising,,working
+falmeida@example.org,21/04/1988,graduate,PB,INFJ,electrical engineering,,working on field of study
+ana-livia25@example.com,27/08/2004,incomplete,BA,INTJ,hospitality|environmental science,,unemployed
+dviana@example.com,09/02/2001,incomplete,GO,INTP,graphic design,ANPEC,working
+nascimentolivia@example.org,09/10/1995,highschool,PE,ESFJ,physics,,working
+antonella30@example.org,17/10/1992,graduate,SP,ISTJ,data science|literature,,researcher
+vargasluan@example.net,17/12/1990,undergraduate,MG,ISFP,mathematics|cybersecurity,,working
+fda-conceicao@example.net,25/11/2002,undergraduate,MG,INFP,public policy,ENEM|POSCOMP,researcher
+ncavalcante@example.com,02/03/1980,graduate,MG,INFP,visual arts,,working on field of study
+silvafelipe@example.org,04/04/1995,undergraduate,PR,ESTP,web development,,working on field of study
+ana-sophia65@example.org,03/06/1984,highschool,SP,ISTJ,marketing|psychology|performing arts,,working
+benicio95@example.net,09/10/2007,incomplete,SP,ISFP,hospitality,,unemployed
+rda-costa@example.org,05/06/1989,undergraduate,CE,ESTP,education|data science,,working on field of study
+tpastor@example.net,27/07/1995,undergraduate,RJ,ISTP,web development|tourism,,working
+iguerra@example.com,22/12/1981,undergraduate,RS,INFP,business administration,,working
+hmachado@example.com,07/11/1992,highschool,SP,ISFJ,mathematics|journalism|law,,working
+davi-miguel43@example.org,29/11/1996,graduate,SP,ISFJ,literature,,researcher
+pcosta@example.org,27/07/1985,undergraduate,MG,ENTJ,education|marketing|physical education,,working
+oliviaporto@example.com,13/06/1985,undergraduate,RJ,INTP,dentistry|accounting,,researcher
+aylasales@example.org,25/07/1990,undergraduate,SP,ENFP,finance,,researcher
+fonsecasara@example.net,09/12/1993,undergraduate,MG,ESFJ,anthropology|architecture,,working on field of study
+mirellasa@example.org,13/05/1981,undergraduate,RR,ESFP,pharmacy|psychology|physical education,,unemployed
+biancaferreira@example.com,24/05/1986,undergraduate,SP,ENFP,music,,researcher
+ana-cecilia32@example.net,22/03/1999,highschool,GO,ENTJ,finance|data science|sociology,,working
+ferreiraluara@example.com,10/04/1982,undergraduate,PA,ENTJ,journalism|agriculture|linguistics,,unemployed
+calebsa@example.org,25/10/1998,graduate,SP,ESTP,marketing|web development|cloud computing,,working
+rebeca48@example.org,15/03/1985,highschool,PA,INTP,architecture,,working
+carvalhovitor-gabriel@example.net,08/12/2005,incomplete,MG,ISTP,linguistics|music,,working
+uda-cruz@example.org,02/10/1995,highschool,RJ,ISFJ,marketing|journalism|public policy,,unemployed
+amanda81@example.com,17/09/1988,undergraduate,SP,INTP,literature|cybersecurity|pharmacy,,working
+benicio81@example.net,28/07/1990,undergraduate,SP,ENTP,dentistry|electrical engineering,,working
+isaquebarbosa@example.net,07/12/1999,undergraduate,RS,INFP,tourism|web development,,working on field of study
+ncostela@example.org,04/10/1988,highschool,RS,ISFP,sociology|biology|architecture,,working
+tda-cunha@example.org,24/02/1988,undergraduate,SP,ENFJ,public relations|advertising,,unemployed
+antonella28@example.org,21/10/1985,undergraduate,CE,ISFP,physics,,working
+ana-carolinajesus@example.com,16/07/1998,graduate,RJ,INFP,medicine|public relations|biology,,working
+laisrezende@example.com,28/08/2003,incomplete,RS,ISFJ,dentistry,,working
+mouranicolas@example.com,08/01/2002,incomplete,SP,ESTP,education|finance,,working
+fonsecaolivia@example.com,26/10/2007,incomplete,DF,ENTJ,data science|cybersecurity|nursing,,unemployed
+lorenapires@example.net,24/02/1993,undergraduate,TO,INFP,physical education|marketing|sports science,,working
+nicolas01@example.org,02/07/1986,highschool,SP,INFJ,economics,,working
+silvaana@example.com,10/02/1983,undergraduate,RJ,INTJ,nursing|international relations|hospitality,,working on field of study
+xmoraes@example.net,02/05/2006,incomplete,GO,ENFP,sociology,,unemployed
+bellacunha@example.org,16/04/2003,incomplete,RS,ESTJ,music|tourism|chemistry,,working
+vianaanthony@example.net,03/12/1996,highschool,MG,ISTJ,electrical engineering,,working
+rodriguesbella@example.net,10/09/1984,highschool,RJ,INTP,civil engineering,,working
+leaomaria-luiza@example.com,19/03/1989,graduate,MS,INTJ,physics|veterinary medicine,,working on field of study
+olivermendes@example.net,18/06/2003,incomplete,RO,INFJ,journalism|cybersecurity|accounting,,working
+fernandesmaria-alice@example.com,09/09/1986,graduate,RJ,ISTP,architecture|cybersecurity|finance,POSCOMP,working
+rael19@example.com,29/05/1982,undergraduate,MG,ENTJ,nutrition|business administration|data science,,working on field of study
+ana-livia89@example.org,19/08/1997,highschool,RJ,INTJ,physical education|linguistics|civil engineering,,working
+dnovaes@example.com,10/09/1999,undergraduate,SP,INFP,architecture|hospitality|philosophy,,working on field of study
+jsampaio@example.org,31/10/2003,incomplete,PA,ISFJ,physical education|cloud computing,,working
+maria-julia64@example.com,22/02/1989,undergraduate,RJ,ISFJ,biology|chemistry|data science,,working on field of study
+rezendealice@example.net,10/07/2002,incomplete,SP,ISTP,data science,,working
+gael-henriquesantos@example.net,10/10/1980,undergraduate,SP,INFJ,mechanical engineering|philosophy|literature,,working
+vianaluiz-felipe@example.com,12/02/1987,graduate,GO,ENTP,education,,researcher
+dmontenegro@example.net,19/08/1987,highschool,MG,INFP,public policy|philosophy,,working on field of study
+joao-pedronunes@example.com,07/04/2007,incomplete,MT,ISFJ,marketing|agriculture,,unemployed
+miguel21@example.com,27/08/2004,incomplete,MT,ISTJ,sports science|hospitality,,working
+gmartins@example.net,01/05/1981,incomplete,SP,ENFJ,artificial intelligence,,working
+ncarvalho@example.com,24/02/1987,undergraduate,SP,ESFP,political science|public policy,,working
+claramoreira@example.com,12/05/1985,highschool,RJ,ISTJ,nursing,FUVEST|Vestibular UNICAMP,working
+aurora49@example.com,08/03/2000,graduate,SP,ESFP,public policy|journalism|database management,,researcher
+halmeida@example.net,12/08/2007,incomplete,RJ,INTP,hospitality|finance,,unemployed
+davi-lucasribeiro@example.com,14/12/2007,incomplete,SP,INFJ,mechanical engineering|international relations,,unemployed
+da-costacatarina@example.net,14/09/1989,undergraduate,SP,ISTP,law|medicine,,working on field of study
+leandroporto@example.net,14/08/2006,incomplete,RJ,ISTJ,artificial intelligence,,working
+isaquemendonca@example.com,08/10/1985,highschool,MG,ESTP,linguistics,Vestibular UNICAMP|Vestibular FATEC,unemployed
+anthony22@example.com,13/11/1984,incomplete,SP,ENTP,biology|accounting|music,,working
+liamvasconcelos@example.com,27/01/2008,incomplete,MT,INFP,international relations,,unemployed
+clariceferreira@example.com,07/10/1996,undergraduate,SP,INTJ,history|political science,,working on field of study
+brendaabreu@example.net,01/02/2004,incomplete,MA,ENFP,journalism|data science|finance,,working on field of study
+cferreira@example.org,11/04/2004,incomplete,SC,ISTJ,software engineering|anthropology|civil engineering,,unemployed
+freitasvinicius@example.org,29/12/1982,graduate,CE,INTJ,physical education,,working on field of study
+luiz-otaviovieira@example.net,27/03/2006,incomplete,SP,ISFP,sociology|nursing,,working
+ferreiramarcos-vinicius@example.org,28/06/2006,incomplete,DF,INFP,mathematics|hospitality,,working
+arthur-miguelguerra@example.org,16/06/1992,undergraduate,SP,ENTJ,sociology|environmental science|architecture,,working on field of study
+nunesmarcos-vinicius@example.com,23/07/1992,undergraduate,SC,INTJ,business administration|pharmacy,,working
+joao-pedro80@example.net,14/09/1983,undergraduate,GO,ESFJ,advertising|finance|political science,ANPEC,working
+nsouza@example.net,13/01/2007,incomplete,SP,ESFP,advertising|architecture,,working
+maria-florvasconcelos@example.com,17/04/2002,incomplete,SP,INTJ,international relations|journalism,,working on field of study
+rcassiano@example.com,24/08/1999,highschool,MG,INTP,accounting,,researcher
+antonio24@example.net,04/08/1994,graduate,SP,ENFP,nursing|literature|machine learning,,working
+abreualana@example.net,03/07/1982,undergraduate,BA,INTP,history|advertising,,working
+moraesluigi@example.com,25/01/2002,incomplete,MG,INFJ,biology,,unemployed
+mribeiro@example.com,05/01/2000,undergraduate,BA,ESTP,public relations|chemistry|journalism,,working on field of study
+guerrasabrina@example.org,15/03/1997,undergraduate,CE,ESFP,political science|data science|pharmacy,,working
+jmoreira@example.org,12/02/1980,highschool,MG,ESFJ,nutrition|anthropology|performing arts,,working
+uborges@example.net,05/06/1988,undergraduate,RN,ISFJ,biology|software engineering|pharmacy,,unemployed
+sampaioallana@example.com,29/01/1993,graduate,SP,INFJ,political science|veterinary medicine|software engineering,,working
+aparecidarhavi@example.org,14/11/1990,graduate,TO,INTP,finance|architecture,ANPEC|POSCOMP,unemployed
+das-nevesmirella@example.com,01/01/1996,graduate,SP,ESFP,cybersecurity,,working
+da-cunhaanthony@example.com,25/01/1988,undergraduate,PA,ESFP,journalism,,researcher
+rhavi69@example.org,19/06/2002,incomplete,SP,INFP,chemistry|finance|mathematics,,unemployed
+zmachado@example.com,22/09/1994,highschool,SP,ESTP,advertising,,unemployed
+ana-julia31@example.com,13/08/1993,undergraduate,SP,INTP,literature,,working
+rvasconcelos@example.org,16/04/1981,undergraduate,MG,ISTP,marketing,,working on field of study
+da-pazbrayan@example.net,06/09/1998,highschool,TO,ENTJ,public policy|hospitality|advertising,,unemployed
+benjamim74@example.org,05/03/2005,incomplete,PE,ESTJ,marketing|sports science,,working
+diogo07@example.org,30/10/2002,incomplete,SP,INFJ,medicine,,working
+esther45@example.org,07/04/1987,graduate,PR,ISFJ,performing arts,,working
+novaescalebe@example.org,30/01/1980,undergraduate,PA,ISFJ,chemistry|business administration|performing arts,,working on field of study
+vasconcelosjose-miguel@example.net,29/01/2008,incomplete,RJ,ENTP,software engineering,,unemployed
+kevin95@example.net,20/11/2007,incomplete,RJ,ESFP,psychology|physics|education,,unemployed
+santosthiago@example.com,14/04/1983,undergraduate,SP,ISTJ,cybersecurity|mechanical engineering,,working on field of study
+esther88@example.com,10/09/1995,highschool,MA,ENTP,hospitality|mathematics,,working on field of study
+qfarias@example.org,16/03/1982,graduate,SP,ENTP,journalism,,researcher
+saalexia@example.net,01/02/1981,graduate,SP,ISFP,hospitality|cybersecurity|accounting,,working
+rodrigoaragao@example.com,23/09/1997,graduate,MG,ENFP,advertising|international relations|economics,,working on field of study
+lorenamoreira@example.org,07/01/2008,incomplete,PA,ISTP,dentistry|international relations,,unemployed
+qpereira@example.com,11/07/1999,undergraduate,SP,ESFP,artificial intelligence|music,,unemployed
+raquelcosta@example.net,22/10/2007,incomplete,RS,INTP,data science|tourism,,unemployed
+camarajosue@example.com,27/08/2004,incomplete,CE,ESFJ,cloud computing|international relations|data science,,working
+mathias09@example.net,09/09/2008,incomplete,RJ,ESFP,pharmacy|architecture|advertising,,unemployed
+rodrigoporto@example.com,12/04/2004,incomplete,RS,ISTP,environmental science,,working
+heloisa87@example.net,05/04/1993,highschool,SP,ENFJ,public relations|electrical engineering,,working
+mfonseca@example.net,29/04/1999,highschool,SP,ESTP,law|education,,unemployed
+hazevedo@example.net,16/12/1997,undergraduate,RS,ESFJ,marketing|environmental science|data science,,working on field of study
+ioliveira@example.com,09/09/1985,graduate,MG,ENFJ,graphic design,,researcher
+valentinaabreu@example.com,13/08/2000,graduate,PE,ISFP,cybersecurity|machine learning,,researcher
+bmacedo@example.net,05/04/1989,highschool,RJ,ESFP,marketing,,working
+eferreira@example.com,23/03/1997,graduate,MA,ISFP,performing arts,,unemployed
+eaparecida@example.org,11/12/1982,undergraduate,PI,ISFJ,chemistry|philosophy,,unemployed
+pachecohenrique@example.org,11/12/1993,undergraduate,SC,ESFP,data science|pharmacy,,researcher
+da-motavitoria@example.com,28/06/1999,undergraduate,MG,ENTP,literature|public relations,,working on field of study
+abreunicole@example.com,17/01/1989,graduate,RS,ESFP,advertising|sociology|linguistics,,working
+nuneskevin@example.org,21/04/1986,undergraduate,AP,ISTP,mechanical engineering,,working
+costelalavinia@example.org,03/04/2005,incomplete,MG,ISFJ,physical education|literature|sociology,,working
+da-conceicaovitoria@example.com,12/10/1996,undergraduate,MG,ENFJ,database management|architecture|web development,,working
+mouraliam@example.org,20/02/2005,incomplete,RJ,ISFJ,medicine,ENEM|FUVEST,working
+henry42@example.org,26/06/1998,undergraduate,SP,ISFJ,journalism,,working
+silvaheloisa@example.com,22/07/1988,graduate,SP,ISFP,advertising|physical education,,working on field of study
+saraujo@example.net,07/01/2008,incomplete,AC,ISFP,physical education|literature,ENEM,unemployed
+siqueiravalentim@example.net,23/05/2008,incomplete,MG,INTJ,graphic design|marketing,,unemployed
+juandias@example.com,28/03/2002,incomplete,MS,INFP,agriculture,,working on field of study
+giovanna67@example.org,26/04/1992,undergraduate,SP,INTP,economics|electrical engineering,,researcher
+maragao@example.net,05/10/2000,incomplete,SP,ISTJ,sociology|architecture|machine learning,POSCOMP,working
+ayla91@example.net,25/07/1983,graduate,GO,ENTP,journalism|business administration|economics,,researcher
+mirellasiqueira@example.org,30/11/1994,graduate,CE,ISTJ,economics,,working
+vargassophie@example.org,12/08/2001,incomplete,PR,ENFJ,machine learning|nursing|database management,,working
+leonardoporto@example.org,10/01/2008,incomplete,PR,ISTP,nutrition,,unemployed
+cavalcanteravi-lucca@example.com,26/12/2004,incomplete,PB,ESFJ,education,,working
+leaoemanuella@example.com,08/04/1998,undergraduate,SC,ISFP,biology|visual arts,,working
+wmonteiro@example.net,24/05/1998,graduate,BA,ISTP,software engineering|veterinary medicine|biology,,working on field of study
+orios@example.net,05/02/2006,incomplete,RJ,ENTP,hospitality,,working
+calebe91@example.net,15/03/1988,undergraduate,RS,INTP,electrical engineering|database management|chemistry,,working
+thiago94@example.org,25/08/1995,graduate,SC,ESFP,public policy|journalism,,working
+camargomarcos-vinicius@example.org,08/08/1989,undergraduate,SP,ESTJ,performing arts,,unemployed
+joana53@example.com,30/10/1990,highschool,CE,ISFP,nutrition|veterinary medicine,Vestibular UNICAMP,working
+matheus95@example.net,25/08/1989,undergraduate,SP,ISTP,business administration|artificial intelligence|finance,,working on field of study
+manuella42@example.org,19/04/1985,graduate,SP,ESFJ,anthropology,,unemployed
+aragaokaique@example.net,11/11/1985,highschool,MG,ESFJ,web development,,unemployed
+anthony-gabrielgomes@example.net,01/01/1988,graduate,RJ,ENFP,performing arts,,working on field of study
+fogacamarcelo@example.com,05/10/2003,incomplete,SP,INFP,mechanical engineering|cloud computing|agriculture,,unemployed
+monteiromarina@example.org,17/07/1982,graduate,SP,ISFP,accounting,,working
+yuri65@example.net,21/09/2004,incomplete,MG,ESTP,accounting,,working
+cda-paz@example.com,24/01/1981,highschool,SC,INFP,literature|artificial intelligence|law,ANPEC,unemployed
+bnascimento@example.com,03/11/1987,incomplete,PR,ESTJ,performing arts,,working
+joao90@example.org,01/06/1989,undergraduate,SP,ESFJ,marketing|literature,,unemployed
+alexandrerocha@example.com,23/05/1980,undergraduate,BA,INTJ,linguistics|public policy,POSCOMP,unemployed
+zpinto@example.net,09/08/2001,incomplete,SP,INTP,cybersecurity,,working
+teixeiramaria-alice@example.org,10/06/1997,undergraduate,RS,INTP,performing arts|sociology|veterinary medicine,,working
+gustavodias@example.org,24/08/1989,undergraduate,RJ,INFP,agriculture,,working
+qteixeira@example.net,23/09/1980,graduate,RS,ISFJ,biology|physical education|cloud computing,,working
+nathan13@example.org,14/12/2006,incomplete,RN,ENFP,public relations|machine learning,,unemployed
+silvafernanda@example.org,24/05/2003,highschool,PE,INFP,medicine|data science|international relations,,unemployed
+ana-carolinaramos@example.net,05/08/1984,graduate,PA,ENTP,performing arts|graphic design,POSCOMP,working
+kamillynunes@example.net,23/04/1980,incomplete,DF,ENFP,education|marketing|cybersecurity,ENEM|Vestibular UNICAMP,unemployed
+giovanna55@example.net,23/12/1998,highschool,PA,ENFJ,business administration|environmental science|linguistics,,working
+hpacheco@example.com,27/03/1992,highschool,SP,ENFJ,education,,working
+maria-julia33@example.org,24/01/1984,highschool,ES,ISFP,public policy|public relations,,working
+goncalvesgustavo@example.com,05/09/1990,graduate,PE,ESTP,software engineering,,researcher
+cavalcanticarlos-eduardo@example.com,08/10/1983,graduate,SP,ISTP,sociology|economics|hospitality,,researcher
+slima@example.net,03/01/1980,highschool,RS,ENFP,pharmacy,,working
+amanda61@example.com,10/06/1984,graduate,SP,INTJ,physical education,,working on field of study
+wda-cunha@example.com,21/01/1998,graduate,MG,INFJ,education|business administration,,working
+ppastor@example.org,29/01/1993,undergraduate,SP,ISTJ,hospitality,,working
+juan92@example.org,24/06/2008,incomplete,RJ,INTJ,education,,unemployed
+da-costavicente@example.com,20/08/1991,highschool,MG,ESTP,education|graphic design|literature,Vestibular UNICAMP,working
+laura08@example.net,04/11/2001,incomplete,RJ,ESFP,education|psychology|economics,,working
+maria-julia59@example.com,31/07/2002,highschool,BA,ESTJ,veterinary medicine|nursing|environmental science,,working
+dda-conceicao@example.org,12/10/2008,incomplete,CE,ISFJ,veterinary medicine|agriculture,,unemployed
+correiajulia@example.org,06/06/2008,incomplete,AL,ISFJ,environmental science,,unemployed
+gmelo@example.com,24/04/2001,incomplete,PA,INFJ,marketing,,working
+igor60@example.net,23/03/1988,undergraduate,RJ,INTP,economics|environmental science|business administration,,working
+alicenogueira@example.com,15/12/1994,highschool,SC,ENTP,dentistry|data science|visual arts,,working
+arthur-gabrielmoreira@example.org,21/05/1999,undergraduate,AP,ISFJ,physics,,unemployed
+macedoester@example.net,09/12/1994,undergraduate,SP,ISTP,marketing|chemistry,,working
+thiago93@example.com,13/11/1989,undergraduate,PI,ISFP,tourism|philosophy,,researcher
+cda-paz@example.org,17/10/2001,undergraduate,RJ,ENFP,journalism,,working on field of study
+ysilva@example.org,15/11/1997,graduate,MS,INFJ,electrical engineering|physics|linguistics,,working
+oliver02@example.net,08/03/1995,undergraduate,SP,ENFP,agriculture|advertising|data science,,working
+andradeamanda@example.net,14/08/1991,undergraduate,PB,ESTJ,literature|education|history,,unemployed
+foliveira@example.net,06/09/1988,undergraduate,BA,INFJ,cloud computing|performing arts,,working on field of study
+vianadiego@example.org,15/01/1993,undergraduate,DF,ESFP,public relations|accounting|physical education,,working
+leosilveira@example.org,09/04/2006,incomplete,AC,ISTP,electrical engineering|political science,,unemployed
+levimendonca@example.net,24/07/2003,incomplete,PE,ESFP,machine learning|economics|public relations,,working
+heloisaguerra@example.net,29/05/1987,undergraduate,SP,INFP,economics|tourism|international relations,,working on field of study
+giovannacamargo@example.com,30/11/1980,graduate,SP,ISFJ,education,,working
+matteo84@example.net,13/11/2003,incomplete,DF,ENTJ,cybersecurity|mathematics|medicine,,unemployed
+da-pazbruna@example.org,17/07/2004,incomplete,ES,ISFJ,education|medicine|database management,,working
+julianacorreia@example.org,15/02/1986,graduate,RJ,ENTP,public policy|database management|environmental science,,working
+alexandreda-mota@example.org,20/02/2001,incomplete,CE,ESFP,mathematics|veterinary medicine,,working
+onunes@example.net,22/10/1981,highschool,RS,ISTP,philosophy,,working
+ana-laura15@example.net,11/03/2004,incomplete,AP,ENTP,public policy,,unemployed
+mouradavi@example.com,25/06/2000,undergraduate,BA,ISTJ,nursing|nutrition|psychology,,working on field of study
+isaque34@example.net,03/11/2008,incomplete,GO,ISFP,agriculture,,unemployed
+yasmin05@example.net,30/11/2008,incomplete,MG,ISTJ,data science,,unemployed
+moraesluiz-gustavo@example.net,07/03/1994,highschool,AP,INFP,finance|veterinary medicine,,working
+castronoah@example.org,07/08/1990,graduate,RS,ESTJ,artificial intelligence,,researcher
+rodriguesleandro@example.com,14/02/2006,incomplete,RJ,ENFP,mathematics|electrical engineering,,working
+costaester@example.org,29/04/1997,undergraduate,GO,INTJ,database management|agriculture|economics,,unemployed
+pietra90@example.org,17/12/1983,graduate,SP,ENFJ,tourism|biology|anthropology,,researcher
+joaquimda-rosa@example.org,16/07/2002,incomplete,MG,ISTP,physical education|web development|music,,working
+jadeda-cruz@example.com,08/06/1994,undergraduate,SP,ENTJ,environmental science|public relations|marketing,,working
+pireslucas@example.com,14/07/1989,incomplete,RJ,INFP,cloud computing|mathematics|philosophy,,working
+duarteluan@example.net,04/09/2007,incomplete,GO,INTJ,international relations|architecture|anthropology,,working
+ccamara@example.org,12/09/1981,undergraduate,SP,INTP,business administration|anthropology|database management,,unemployed
+vitor-hugoda-conceicao@example.net,24/05/1999,graduate,CE,ENTJ,civil engineering|machine learning|nutrition,,working on field of study
+cguerra@example.com,18/03/1999,highschool,RS,ISFJ,cybersecurity|sociology|physical education,,working on field of study
+azevedoana-liz@example.net,22/10/2005,incomplete,RJ,ENTJ,history,Vestibular UNICAMP,unemployed
+oliviaalmeida@example.com,01/04/1992,highschool,AP,ISFJ,software engineering|electrical engineering|agriculture,,unemployed
+qda-cunha@example.com,17/04/1994,graduate,PE,ENFJ,mechanical engineering,,working
+albuquerqueanthony@example.com,04/06/2000,highschool,SP,ISTJ,economics|pharmacy|international relations,,working
+mvasconcelos@example.org,04/08/2000,highschool,SC,INTJ,cloud computing|environmental science|biology,,working
+cnovais@example.com,04/07/2000,highschool,SP,ENFJ,physics|hospitality,,researcher
+marcela00@example.com,12/02/1996,highschool,PA,ENTP,public policy|chemistry,,unemployed
+novaesjulia@example.org,21/03/2007,incomplete,GO,ESFJ,software engineering|artificial intelligence|cybersecurity,,researcher
+ida-rosa@example.org,27/10/1993,undergraduate,RJ,ENFP,advertising,,working
+esthergomes@example.net,21/03/1987,undergraduate,SP,ISFP,anthropology|civil engineering,,working
+oliviadas-neves@example.com,07/05/1996,undergraduate,GO,ESTJ,chemistry|cybersecurity|political science,,working
+leaojoao@example.org,23/02/1996,highschool,SP,INTP,pharmacy,,working
+qabreu@example.com,20/04/2002,incomplete,TO,INTJ,public policy|sports science,,working
+esthercastro@example.net,24/09/2000,undergraduate,RJ,ESTJ,accounting,,working
+matteo87@example.org,05/05/1985,undergraduate,SP,ISTP,mechanical engineering|law|performing arts,,working on field of study
+xleao@example.net,10/12/1982,undergraduate,PA,ESFP,anthropology|philosophy|environmental science,,working on field of study
+pedro96@example.com,05/11/2005,incomplete,MG,INFP,linguistics,,working on field of study

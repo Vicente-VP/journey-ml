@@ -8,6 +8,7 @@ BASE_EMAIL_FILL_RATE = 0.30  # 30% base chance for email to be filled
 JAN_JUNE_EMAIL_BOOST = 0.40  # +40% chance in Jan and June
 SAFARI_BRAVE_MOBILE_EMAIL_BOOST = 0.50  # +50% chance for Safari/Brave/Mobile
 FATEC_EMAIL_REDUCTION = 0.25  # -25% chance for FATEC routes
+MOBILE_DEDUCTION_RATE = 0.3 # -30% chance for mobile users
 
 # Time spent distribution parameters
 TIME_SPENT_MEAN = 180
@@ -119,8 +120,11 @@ def calculate_email_probability(date, referrer, device, route):
         prob += JAN_JUNE_EMAIL_BOOST
     
     # Safari/Brave/Mobile boost
-    if referrer in ['safari', 'brave'] or device == 'mobile':
+    if referrer in ['safari', 'brave']:
         prob += SAFARI_BRAVE_MOBILE_EMAIL_BOOST
+    
+    if device == "mobile":
+        prob -= MOBILE_DEDUCTION_RATE
     
     # FATEC reduction
     if '/vestibular/FATEC' in route:
@@ -220,7 +224,7 @@ def analyze_biases(data):
 # Main execution
 if __name__ == "__main__":
     # Generate synthetic data
-    N_ROWS = 1000  # Change this to generate different amounts of data
+    N_ROWS = 50000  # Change this to generate different amounts of data
     
     print(f"Generating {N_ROWS} rows of synthetic web analytics data...")
     synthetic_data = generate_synthetic_data(N_ROWS)

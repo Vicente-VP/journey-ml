@@ -1,11 +1,5 @@
 import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
-import matplotlib
-from sklearn.preprocessing import OneHotEncoder, MinMaxScaler
-
-
-matplotlib.use("TkAgg")
+from sklearn.preprocessing import MinMaxScaler, OneHotEncoder
 
 df_web = pd.read_csv("./datasets/bv-web-analytics.csv")
 
@@ -13,10 +7,7 @@ df_signup = df_web.copy()
 df_signup.rename(columns={"email": "target"}, inplace=True)
 df_signup["target"] = (~df_signup["target"].isna()).astype(int)
 
-df_signup["month"] = pd.to_datetime(df_signup["date"], format='%d/%m/%Y').dt.month
-
-sns.barplot(df_signup[["target", "month"]], x="month", y="target")
-plt.show()
+df_signup["month"] = pd.to_datetime(df_signup["date"], format="%d/%m/%Y").dt.month
 
 encodable = ["referrer", "device", "route", "month"]
 encoder = OneHotEncoder(sparse_output=False)
@@ -36,7 +27,6 @@ scaler = MinMaxScaler()
 df_signup[scalable] = scaler.fit_transform(df_signup[scalable])
 
 df_signup.drop(columns=["ip", "date"], inplace=True)
-
 
 print(df_signup["target"].sum())
 
