@@ -37,8 +37,7 @@ print(treeModel.score(x_test, y_test))
 
 y_pred = treeModel.predict(x_test)
 
-model = DecisionTreeClassifier(random_state=2142, max_depth=5)
-visualizer = ClassificationReport(model, classes=["Não Logado", "Logado"], support=True)
+visualizer = ClassificationReport(treeModel, classes=["Não Logado", "Logado"], support=True)
 
 visualizer.fit(x_train, y_train)        
 visualizer.score(x_test, y_test)        

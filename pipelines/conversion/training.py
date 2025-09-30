@@ -24,10 +24,10 @@ print(KNN_model.score(x_test, y_test))
 # TODO: testar com árvore
 # TODO: gráfico com diferentes K neighbours
 
-y_pred = KNN_model.predict(y_test)
+y_pred = KNN_model.predict(x_test)
 
 model = KNeighborsClassifier(n_neighbors=3)
-visualizer = ClassificationReport(model, classes=["Não Logado", "Logado"], support=True)
+visualizer = ClassificationReport(KNN_model, classes=["Não Logado", "Logado"], support=True)
 
 visualizer.fit(x_train, y_train)
 visualizer.score(x_test, y_test)
