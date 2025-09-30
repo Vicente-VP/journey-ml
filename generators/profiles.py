@@ -15,7 +15,7 @@ MAX_BIRTHDATE = datetime(2008, 12, 31)
 
 # Weight parameters
 YOUNG_INCOMPLETE_EDUCATION_BOOST = 0.5  # Added probability for incomplete education if age < 25
-HIGHSCHOOL_EXAM_BOOST = 0.25  # Added probability for exams if education is highschool
+HIGHSCHOOL_EXAM_BOOST = 0.75  # Added probability for exams if education is highschool
 BASE_PURCHASE_LIKELIHOOD = 0.25
 EXTROVERT_COMMUNICATION_BOOST = 0.3  # Boost for communication-related interests
 RESEARCHER_UNDERGRAD_EXAM_PENALTY = 0.90  # Reduction in undergrad exam likelihood (5% becomes the result)
@@ -190,7 +190,7 @@ def generate_purchases(education, experience, interests_str, age):
     # Undergraduate exams
     if education in ['incomplete', 'highschool'] or age < 25:
         if random.random() < undergrad_prob:
-            num_exams = random.randint(1, 2)
+            num_exams = random.randint(1, 3)
             purchases.extend(random.sample(UNDERGRAD_EXAMS, min(num_exams, len(UNDERGRAD_EXAMS))))
     
     # Graduate exams
