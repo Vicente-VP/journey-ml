@@ -29,6 +29,16 @@
 | --------------------------------------------------- | -------------------------------------------------- | -------------------------------------------- |
 | ![signups por referrer](plots/referrer-signups.png) | ![contagem de referrers](plots/referrer-ratio.png) | ![gráfico composto](plots/referrer-join.png) |
 
+### Métricas de performance
+
+| Matriz de Confusão                              | Relatório de Classificação                                |
+| ----------------------------------------------- | --------------------------------------------------------- |
+| ![confusion matrix](plots/confusion-matrix.png) | ![classification report](plots/classification-report.png) |
+
+| Viés do modelo                                  |     |
+| ----------------------------------------------- | --- |
+| ![proporção de singups](plots/signup-ratio.png) |     |
+
 ### API de sugestão
 
 ```py
