@@ -66,8 +66,8 @@ UNUSED = [
 ]
 
 if __name__ == "__main__":
-    df_web = pd.read_csv("datasets/bv-web-analytics-associated.csv")
-    df_users = pd.read_csv("datasets/bv-profiles.csv")
+    df_web = pd.read_csv("../../datasets/bv-web-analytics-associated.csv")
+    df_users = pd.read_csv("../../datasets/bv-profiles.csv")
 
     df_agg = aggregate_analytics_data(df_web)
 
@@ -91,4 +91,4 @@ if __name__ == "__main__":
 
     df.drop(columns=ENCODABLE + UNUSED, inplace=True)
 
-    df.to_csv("datasets/aggregated-analytics.csv")
+    df.to_csv("../../datasets/aggregated-analytics.csv")

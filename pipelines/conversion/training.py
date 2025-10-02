@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.neighbors import KNeighborsClassifier
 from yellowbrick.classifier import ClassificationReport
 
-df = pd.read_csv("datasets/aggregated-analytics.csv")
+df = pd.read_csv("../../datasets/aggregated-analytics.csv")
 
 y = df["target"]
 x = df.drop("target", axis=1)
@@ -27,7 +27,7 @@ y_pred = KNN_model.predict(x_test)
 model = KNeighborsClassifier(n_neighbors=3)
 
 labels=["Não Comprou", "Comprou"]
-visualizer = ClassificationReport(KNN_model, classes=labels, support=True)
+visualizer = ClassificationReport(KNN_model, classes=["Comprou", "Não Comprou"], support=True)
 
 visualizer.fit(x_train, y_train)
 visualizer.score(x_test, y_test)

@@ -4,9 +4,9 @@ from datetime import datetime
 from collections import defaultdict
 
 # ==================== PARAMETERS ====================
-PROFILES_CSV = 'datasets/bv-profiles.csv'
-NAVIGATION_CSV = 'datasets/bv-web-analytics.csv'
-OUTPUT_CSV = 'datasets/bv-web-analytics-associated.csv'
+PROFILES_CSV = '../datasets/bv-profiles.csv'
+NAVIGATION_CSV = '../datasets/bv-web-analytics.csv'
+OUTPUT_CSV = '../datasets/bv-web-analytics-associated.csv'
 
 # Weight parameters
 TIKTOK_TEENAGER_LIKELIHOOD = 0.75  # 75% chance tiktok referrer gets teenager email

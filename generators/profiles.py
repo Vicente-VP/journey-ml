@@ -7,7 +7,7 @@ from faker import Faker
 fake = Faker('pt_BR')
 
 # ==================== PARAMETERS ====================
-FILENAME = "datasets/bv-profiles.csv"
+FILENAME = "../datasets/bv-profiles.csv"
 
 NUMBER_OF_ROWS = 1000
 MIN_BIRTHDATE = datetime(1980, 1, 1)
