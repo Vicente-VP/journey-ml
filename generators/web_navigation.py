@@ -20,7 +20,7 @@ TIME_SPENT_MAX = 600
 START_DATE = datetime(2025, 1, 1)
 END_DATE = datetime(2027, 12, 31)
 
-FILENAME = "../datasets/bv-web-analytics.csv"
+FILENAME = "datasets/bv-web-analytics.csv"
 
 # Data options with weights
 ROUTES = {

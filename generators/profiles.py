@@ -9,7 +9,7 @@ fake = Faker('pt_BR')
 # ==================== PARAMETERS ====================
 FILENAME = "datasets/bv-profiles.csv"
 
-NUMBER_OF_ROWS = 1000
+NUMBER_OF_ROWS = 10000
 MIN_BIRTHDATE = datetime(1980, 1, 1)
 MAX_BIRTHDATE = datetime(2008, 12, 31)
 

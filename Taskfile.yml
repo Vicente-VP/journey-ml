@@ -1,0 +1,30 @@
+# https://taskfile.dev
+
+version: '3'
+
+tasks:
+  default:
+    silent: true
+    cmds:
+      - echo "Bem vindo(a)"
+  gendata:
+    silent: true
+    cmds:
+      - python3 generators/profiles.py
+      - python3 generators/web_navigation.py
+      - python3 generators/profile_association.py
+  signup:
+    deps: [gendata]
+    cmds:
+      - python3 pipelines/sign_up/preprocessing.py
+      - python3 pipelines/sign_up/training.py
+  conversion:
+    deps: [gendata]
+    cmds:
+      - python3 pipelines/conversion/preprocessing.py
+      - python3 pipelines/conversion/training.py
+  recommendation:
+    deps: [gendata]
+    cmds:
+      - python3 pipelines/recommendation/preprocessing.py
+      - python3 pipelines/recommendation/training.py
