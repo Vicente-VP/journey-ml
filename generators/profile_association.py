@@ -4,15 +4,21 @@ from datetime import datetime
 from collections import defaultdict
 
 # ==================== PARAMETERS ====================
-PROFILES_CSV = '../datasets/bv-profiles.csv'
-NAVIGATION_CSV = '../datasets/bv-web-analytics.csv'
-OUTPUT_CSV = '../datasets/bv-web-analytics-associated.csv'
+PROFILES_CSV = 'datasets/bv-profiles.csv'
+NAVIGATION_CSV = 'datasets/bv-web-analytics.csv'
+OUTPUT_CSV = 'datasets/bv-web-analytics-associated.csv'
 
 # Weight parameters
 TIKTOK_TEENAGER_LIKELIHOOD = 0.75  # 75% chance tiktok referrer gets teenager email
 MOBILE_YOUNG_LIKELIHOOD = 0.60     # 60% chance mobile/tablet user is under 20
 DESKTOP_OLDER_LIKELIHOOD = 0.60    # 60% chance desktop user is over 24
 PURCHASE_ROUTE_MATCH_BOOST = 0.70  # 70% boost to spend time on purchased exam route
+
+# Age-based exam preferences
+TEENAGER_ENEM_BOOST = 0.50         # 50% more likely for teenagers to get ENEM routes
+YOUNG_ADULT_FUVEST_BOOST = 0.30    # 30% more likely for young adults to get FUVEST
+YOUNG_ADULT_UNICAMP_BOOST = 0.30   # 30% more likely for young adults to get UNICAMP
+ADULT_FATEC_BOOST = 0.40           # 40% more likely for adults to get FATEC
 
 # ==================== HELPER FUNCTIONS ====================
 
@@ -59,6 +65,16 @@ def extract_exam_from_route(route):
             return parts[2]
     return None
 
+def get_age_group(profile):
+    """Get age group for a profile"""
+    age = profile.get('age', 0)
+    if age < 20:
+        return 'teenager'
+    elif age < 25:
+        return 'young_adult'
+    else:
+        return 'adult'
+
 def select_profile(profiles, profiles_by_age, profiles_with_purchases, nav_row):
     """Select appropriate profile based on navigation data and weights"""
     referrer = nav_row.get('referrer', '')
@@ -104,6 +120,43 @@ def select_profile(profiles, profiles_by_age, profiles_with_purchases, nav_row):
                 candidates = profiles_with_purchases[exam]
                 weights_applied.append(f'purchase_match_{exam}_override')
     
+    # Weight 5: Age-based exam preferences
+    if exam:
+        age_filtered = []
+        boost_applied = False
+        
+        # ENEM preference for teenagers
+        if exam == 'ENEM' and random.random() < TEENAGER_ENEM_BOOST:
+            age_filtered = [p for p in candidates if get_age_group(p) == 'teenager']
+            if age_filtered:
+                candidates = age_filtered
+                weights_applied.append('teenager_enem_boost')
+                boost_applied = True
+        
+        # FUVEST preference for young adults
+        elif exam == 'FUVEST' and random.random() < YOUNG_ADULT_FUVEST_BOOST:
+            age_filtered = [p for p in candidates if get_age_group(p) == 'young_adult']
+            if age_filtered:
+                candidates = age_filtered
+                weights_applied.append('young_adult_fuvest_boost')
+                boost_applied = True
+        
+        # UNICAMP preference for young adults
+        elif exam == 'Vestibular UNICAMP' and random.random() < YOUNG_ADULT_UNICAMP_BOOST:
+            age_filtered = [p for p in candidates if get_age_group(p) == 'young_adult']
+            if age_filtered:
+                candidates = age_filtered
+                weights_applied.append('young_adult_unicamp_boost')
+                boost_applied = True
+        
+        # FATEC preference for adults
+        elif exam == 'Vestibular FATEC' and random.random() < ADULT_FATEC_BOOST:
+            age_filtered = [p for p in candidates if get_age_group(p) == 'adult']
+            if age_filtered:
+                candidates = age_filtered
+                weights_applied.append('adult_fatec_boost')
+                boost_applied = True
+    
     # Select random profile from candidates
     if candidates:
         selected = random.choice(candidates)
@@ -131,7 +184,7 @@ def process_navigation_data(profiles_csv, navigation_csv, output_csv):
     anonymous_rows = 0
     weight_stats = defaultdict(int)
     
-    with open(navigation_csv, 'r', encoding='utf-8') as infile, \
+    with open(navigation_csv, 'r', newline='', encoding='utf-8') as infile, \
          open(output_csv, 'w', newline='', encoding='utf-8') as outfile:
         
         reader = csv.DictReader(infile)

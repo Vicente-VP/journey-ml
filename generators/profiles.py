@@ -7,7 +7,7 @@ from faker import Faker
 fake = Faker('pt_BR')
 
 # ==================== PARAMETERS ====================
-FILENAME = "../datasets/bv-profiles.csv"
+FILENAME = "datasets/bv-profiles.csv"
 
 NUMBER_OF_ROWS = 1000
 MIN_BIRTHDATE = datetime(1980, 1, 1)
@@ -16,7 +16,7 @@ MAX_BIRTHDATE = datetime(2008, 12, 31)
 # Weight parameters
 YOUNG_INCOMPLETE_EDUCATION_BOOST = 0.5  # Added probability for incomplete education if age < 25
 HIGHSCHOOL_EXAM_BOOST = 0.75  # Added probability for exams if education is highschool
-BASE_PURCHASE_LIKELIHOOD = 0.25
+BASE_PURCHASE_LIKELIHOOD = 0.55
 EXTROVERT_COMMUNICATION_BOOST = 0.3  # Boost for communication-related interests
 RESEARCHER_UNDERGRAD_EXAM_PENALTY = 0.90  # Reduction in undergrad exam likelihood (5% becomes the result)
 RESEARCHER_GRAD_EXAM_BOOST = 0.25  # Boost to graduate exam likelihood (15% -> 50%)
